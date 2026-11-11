@@ -1,0 +1,2185 @@
+{
+  "business": "VNR Signage & Advertising",
+  "profile": "https://share.google/dO1WEL9Iu0l6j1cyI",
+  "verifiedOn": "2026-11-11",
+  "source": "Photos attached to the business's own Google updates; downloaded at the owner's request.",
+  "fileNaming": "Local filenames were assigned for this website. Google does not expose the owner's original filenames; these local names are not independent classification evidence.",
+  "profileAudit": {
+    "ownerUpdatesReadInFull": 10,
+    "availableStillPhotos": 119,
+    "clientGalleryCount": 35,
+    "galleryGrouping": "Group by published client or project name. Tata updates share one gallery; split Royal and Sri Jeyaprabha. Rajambigai Chaats and Rajambigai Sweets & Snacks are separate. The Jaihindpuram and Avaniyapuram dental updates remain separate, without asserting a shared legal entity. Anonymous projects retain descriptive titles and are not invented client names.",
+    "mediaScope": "119 real photographs and owner-made photo montages selected from 123 still-image attachments retrieved from 35 owner updates after scrolling the Google Updates feed to its accessible end. Includes all twelve screenshot-referenced projects and additional older work. Videos and video posters are excluded; no cropped screenshots or stock photos are used. This is the accessible profile snapshot, not a promise that Google exposes every historical upload. Four flat artwork files are retained as source records but excluded from the website's real-photo galleries.",
+    "visibleProducts": [
+      "Acrylic LED Board",
+      "Home name board",
+      "Uv backlight layer glow sign board"
+    ],
+    "businessDescriptionExpanded": true,
+    "classificationRule": "Use the specific project caption, the pictured item and direct owner corrections. Generic service lists and hashtags inside a post do not establish that project's material.",
+    "installationPhotoPlacement": "Only OUR Projects and its photo-enlargement dialog. Hero and service visuals are original illustrations.",
+    "additionalListedCapabilities": [
+      "Shop name boards",
+      "LED sign boards",
+      "LED letter boards",
+      "ACP sign boards",
+      "Acrylic letter boards",
+      "Glow sign boards",
+      "3D letter boards",
+      "SS letter boards",
+      "Neon sign boards",
+      "Flex boards",
+      "Flex light boards",
+      "Vinyl printing",
+      "UV printing",
+      "Reception logo boards",
+      "Indoor and outdoor branding",
+      "Office signage",
+      "Hospital signage",
+      "Restaurant signage",
+      "School and college sign boards",
+      "Commercial signage",
+      "Digital LED display boards",
+      "CNC and laser cutting",
+      "Wall graphics",
+      "Glass stickers",
+      "Custom design",
+      "Manufacturing",
+      "Installation",
+      "Maintenance"
+    ],
+    "serviceAreas": [
+      "Madurai",
+      "Theni",
+      "Dindigul",
+      "Sivagangai",
+      "Virudhunagar",
+      "Ramanathapuram"
+    ],
+    "workedCategoryKeys": [
+      "led",
+      "uv",
+      "reception",
+      "flex",
+      "name",
+      "display",
+      "event",
+      "frame",
+      "acp",
+      "reflective",
+      "commercial"
+    ],
+    "ownerUpdatesReviewed": 35,
+    "additionalOwnerUpdatesReviewed": 25,
+    "namedClientLinks": 32,
+    "additionalUpdateEvidence": "owner-updates.json",
+    "namingNotes": [
+      "Apex Bridge is a neutral gallery title: the caption says Apex Bridge Finance; the photo says Apex Bridge Capital Limited.",
+      "Maansa Hair & Makeup Studio follows the owner's caption; the source image lettering differs.",
+      "Breathe New is the pictured kiosk identity, not an asserted legal company name. The caption establishes fabrication and Maharashtra delivery.",
+      "Since 1969 belongs to Rajambigai Sweets & Snacks, not VNR.",
+      "Materials for the Yaazhisai Elite project are unspecified in the retrieved caption; use Business & wayfinding rather than inferring UV.",
+      "AR Homeopathy Clinic, Subbiah Subramanian & Associates and Mona's Beauty & Bridal were identified by reading the original pictured signs, not invented from generic captions.",
+      "The owner caption spells Atmen Attire; the pictured sign spells ATMAN ATTIRE. The gallery follows the published caption."
+    ],
+    "availableStillAttachments": 123,
+    "excludedFlatArtwork": [
+      "chef-brothers-04.jpg",
+      "keep-fit-hospital-04.jpg",
+      "praba-reddys-01.jpg",
+      "sri-chakra-clinic-04.jpg"
+    ]
+  },
+  "clientGalleries": [
+    {
+      "name": "SM Bros · HP Petroleum",
+      "photos": [
+        "hp-petroleum.jpg",
+        "hp-petroleum-02.jpg",
+        "hp-petroleum-03.jpg",
+        "hp-petroleum-04.jpg"
+      ],
+      "id": "project-hp-petroleum",
+      "namedClient": true
+    },
+    {
+      "name": "Rajambigai Chaats",
+      "photos": [
+        "uv-backlight-board.jpg",
+        "rajambigai-update-02.jpg",
+        "rajambigai-update-03.jpg",
+        "rajambigai-update-04.jpg"
+      ],
+      "id": "project-rajambigai-chaats",
+      "namedClient": true
+    },
+    {
+      "name": "Royal",
+      "photos": [
+        "reception-led-signage.jpg"
+      ],
+      "id": "project-royal",
+      "namedClient": true
+    },
+    {
+      "name": "Annet Fire Bee Tech · Phonic Elite",
+      "photos": [
+        "phonic-elite.jpg",
+        "phonic-elite-02.jpg",
+        "phonic-elite-03.jpg"
+      ],
+      "id": "project-phonic-elite",
+      "namedClient": true
+    },
+    {
+      "name": "Tata · Sierra product launches",
+      "photos": [
+        "tata-sierra-launch.jpg",
+        "tata-sierra-ev-02.jpg",
+        "tata-sierra-ev-03.jpg",
+        "tata-sierra-01.jpg",
+        "tata-sierra-02.jpg",
+        "tata-sierra-03.jpg",
+        "tata-sierra-04.jpg",
+        "tata-sierra-05.jpg",
+        "tata-sierra-06.jpg"
+      ],
+      "id": "project-tata-sierra",
+      "namedClient": true
+    },
+    {
+      "name": "Sphruti Nivas",
+      "photos": [
+        "house-name-board.jpg",
+        "house-name-board-02.jpg",
+        "house-name-board-03.jpg"
+      ],
+      "id": "project-sphruti-nivas",
+      "namedClient": false
+    },
+    {
+      "name": "Thangaraj & Richard · Law Chambers",
+      "photos": [
+        "law-chambers.jpg",
+        "law-chambers-02.jpg",
+        "law-chambers-03.jpg"
+      ],
+      "id": "project-law-chambers",
+      "namedClient": true
+    },
+    {
+      "name": "MK Clinic",
+      "photos": [
+        "led-scrolling-display.jpg"
+      ],
+      "id": "project-mk-clinic",
+      "namedClient": true
+    },
+    {
+      "name": "Sri Jeyaprabha Jewellers",
+      "photos": [
+        "reception-update-02.jpg",
+        "reception-update-03.jpg"
+      ],
+      "id": "project-sri-jeyaprabha",
+      "namedClient": true
+    },
+    {
+      "name": "Anbu Clinic",
+      "photos": [
+        "anbu-clinic-uv-backlit.jpg"
+      ],
+      "id": "project-anbu-clinic",
+      "namedClient": true
+    },
+    {
+      "name": "Right Events",
+      "id": "project-right-events",
+      "namedClient": true,
+      "photos": [
+        "right-events-01.jpg",
+        "right-events-02.jpg",
+        "right-events-03.jpg",
+        "right-events-04.jpg"
+      ],
+      "categories": [
+        "uv",
+        "reception"
+      ]
+    },
+    {
+      "name": "Pro Express Logistics Pvt. Ltd.",
+      "id": "project-pro-express-logistics",
+      "namedClient": true,
+      "photos": [
+        "pro-express-logistics-01.jpg",
+        "pro-express-logistics-02.jpg",
+        "pro-express-logistics-03.jpg",
+        "pro-express-logistics-04.jpg"
+      ],
+      "categories": [
+        "uv"
+      ]
+    },
+    {
+      "name": "Jazz Photography",
+      "id": "project-jazz-photography",
+      "namedClient": true,
+      "photos": [
+        "jazz-photography-02.jpg",
+        "jazz-photography-01.jpg",
+        "jazz-photography-03.jpg",
+        "jazz-photography-04.jpg"
+      ],
+      "categories": [
+        "reception"
+      ]
+    },
+    {
+      "name": "Yaazhisai Elite Health Care & Acu Boutique",
+      "id": "project-yaazhisai-elite",
+      "namedClient": true,
+      "photos": [
+        "yaazhisai-elite-01.jpg",
+        "yaazhisai-elite-02.jpg",
+        "yaazhisai-elite-03.jpg",
+        "yaazhisai-elite-04.jpg",
+        "yaazhisai-elite-05.jpg",
+        "yaazhisai-elite-06.jpg"
+      ],
+      "categories": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Rajambigai Sweets & Snacks",
+      "id": "project-rajambigai-sweets",
+      "namedClient": true,
+      "photos": [
+        "rajambigai-sweets-01.jpg",
+        "rajambigai-sweets-02.jpg",
+        "rajambigai-sweets-03.jpg",
+        "rajambigai-sweets-04.jpg",
+        "rajambigai-sweets-05.jpg",
+        "rajambigai-sweets-06.jpg",
+        "rajambigai-sweets-07.jpg",
+        "rajambigai-sweets-08.jpg",
+        "rajambigai-sweets-09.png"
+      ],
+      "categories": [
+        "led",
+        "acp"
+      ]
+    },
+    {
+      "name": "Apex Bridge",
+      "id": "project-apex-bridge",
+      "namedClient": true,
+      "photos": [
+        "apex-bridge-01.jpg",
+        "apex-bridge-02.jpg",
+        "apex-bridge-03.jpg"
+      ],
+      "categories": [
+        "reception"
+      ]
+    },
+    {
+      "name": "Blue Chip HR Consultant",
+      "id": "project-blue-chip-hr",
+      "namedClient": true,
+      "photos": [
+        "blue-chip-hr-01.jpg"
+      ],
+      "categories": [
+        "flex"
+      ]
+    },
+    {
+      "name": "Santhana Mariamman Temple",
+      "id": "project-santhana-mariamman",
+      "namedClient": true,
+      "photos": [
+        "santhana-mariamman-01.jpg",
+        "santhana-mariamman-02.jpg",
+        "santhana-mariamman-03.jpg"
+      ],
+      "categories": [
+        "uv"
+      ]
+    },
+    {
+      "name": "Maansa Hair & Makeup Studio",
+      "id": "project-maansa-studio",
+      "namedClient": true,
+      "photos": [
+        "maansa-studio-01.jpg",
+        "maansa-studio-02.jpg",
+        "maansa-studio-03.jpg",
+        "maansa-studio-04.jpg",
+        "maansa-studio-05.jpg",
+        "maansa-studio-06.jpg"
+      ],
+      "categories": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Chef Brothers Kiosk",
+      "id": "project-chef-brothers",
+      "namedClient": true,
+      "photos": [
+        "chef-brothers-02.jpg",
+        "chef-brothers-01.jpg",
+        "chef-brothers-03.jpg",
+        "chef-brothers-05.jpg"
+      ],
+      "categories": [
+        "frame"
+      ]
+    },
+    {
+      "name": "Keep Fit Naturopathy Hospital",
+      "id": "project-keep-fit-hospital",
+      "namedClient": true,
+      "photos": [
+        "keep-fit-hospital-02.jpg",
+        "keep-fit-hospital-01.jpg",
+        "keep-fit-hospital-03.jpg",
+        "keep-fit-hospital-05.jpg"
+      ],
+      "categories": [
+        "reflective"
+      ]
+    },
+    {
+      "name": "Sri Chakra Clinic",
+      "id": "project-sri-chakra-clinic",
+      "namedClient": true,
+      "photos": [
+        "sri-chakra-clinic-02.jpg",
+        "sri-chakra-clinic-01.jpg",
+        "sri-chakra-clinic-03.jpg",
+        "sri-chakra-clinic-05.jpg"
+      ],
+      "categories": [
+        "reflective"
+      ]
+    },
+    {
+      "name": "LS Dental Clinic",
+      "id": "project-ls-dental-clinic",
+      "namedClient": true,
+      "photos": [
+        "ls-dental-clinic-02.jpg",
+        "ls-dental-clinic-01.jpg",
+        "ls-dental-clinic-03.jpg"
+      ],
+      "categories": [
+        "uv"
+      ]
+    },
+    {
+      "name": "Factory department & section boards",
+      "id": "project-factory-sections",
+      "namedClient": false,
+      "photos": [
+        "factory-sections-01.jpg",
+        "factory-sections-02.jpg",
+        "factory-sections-03.jpg",
+        "factory-sections-04.jpg"
+      ],
+      "categories": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "St. Antony's Hospital",
+      "id": "project-st-antonys-hospital",
+      "namedClient": true,
+      "photos": [
+        "st-antonys-hospital-02.jpg",
+        "st-antonys-hospital-01.jpg",
+        "st-antonys-hospital-03.jpg",
+        "st-antonys-hospital-04.jpg",
+        "st-antonys-hospital-05.jpg",
+        "st-antonys-hospital-06.jpg",
+        "st-antonys-hospital-07.jpg"
+      ],
+      "categories": [
+        "led",
+        "acp"
+      ]
+    },
+    {
+      "name": "Mugilan's Dental Clinic · Jaihindpuram",
+      "id": "project-mugilans-jaihindpuram",
+      "namedClient": true,
+      "photos": [
+        "mugilans-jaihindpuram-02.jpg",
+        "mugilans-jaihindpuram-01.jpg",
+        "mugilans-jaihindpuram-03.jpg"
+      ],
+      "categories": [
+        "uv"
+      ]
+    },
+    {
+      "name": "Praba Reddy's Beauty Academy",
+      "id": "project-praba-reddys",
+      "namedClient": true,
+      "photos": [
+        "praba-reddys-02.jpg",
+        "praba-reddys-03.jpg"
+      ],
+      "categories": [
+        "reception"
+      ]
+    },
+    {
+      "name": "Yaazhisai Medical Center",
+      "id": "project-yaazhisai-medical",
+      "namedClient": true,
+      "photos": [
+        "yaazhisai-medical-02.jpg",
+        "yaazhisai-medical-01.jpg",
+        "yaazhisai-medical-03.jpg"
+      ],
+      "categories": [
+        "flex"
+      ]
+    },
+    {
+      "name": "Breathe New · Kiosk signage",
+      "id": "project-breathe-new-kiosk",
+      "namedClient": true,
+      "photos": [
+        "breathe-new-kiosk-02.jpg",
+        "breathe-new-kiosk-01.jpg"
+      ],
+      "categories": [
+        "acp"
+      ]
+    },
+    {
+      "name": "AR Homeopathy Clinic",
+      "id": "project-homeopathy-jaihindpuram",
+      "namedClient": true,
+      "photos": [
+        "homeopathy-jaihindpuram-02.jpg",
+        "homeopathy-jaihindpuram-01.jpg",
+        "homeopathy-jaihindpuram-03.jpg"
+      ],
+      "categories": [
+        "uv",
+        "flex"
+      ],
+      "nameEvidence": "Client name read directly from the original photographed signage."
+    },
+    {
+      "name": "Subbiah Subramanian & Associates",
+      "id": "project-accountant-kk-nagar",
+      "namedClient": true,
+      "photos": [
+        "accountant-kk-nagar-02.jpg",
+        "accountant-kk-nagar-01.jpg"
+      ],
+      "categories": [
+        "commercial"
+      ],
+      "nameEvidence": "Client name read directly from the original photographed signage."
+    },
+    {
+      "name": "Mona's Beauty & Bridal",
+      "id": "project-perungudi-uv",
+      "namedClient": true,
+      "photos": [
+        "perungudi-uv-01.jpg",
+        "perungudi-uv-02.jpg"
+      ],
+      "categories": [
+        "uv"
+      ],
+      "nameEvidence": "Client name read directly from the original photographed signage."
+    },
+    {
+      "name": "Fire safety & general signage",
+      "id": "project-safety-wayfinding",
+      "namedClient": false,
+      "photos": [
+        "safety-wayfinding-01.jpg",
+        "safety-wayfinding-02.jpg"
+      ],
+      "categories": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Atmen Attire",
+      "id": "project-atmen-attire",
+      "namedClient": true,
+      "photos": [
+        "atmen-attire-01.jpg",
+        "atmen-attire-02.jpg"
+      ],
+      "categories": [
+        "uv"
+      ]
+    },
+    {
+      "name": "Mughilan's Dental · Avaniyapuram",
+      "id": "project-mughilans-avaniyapuram",
+      "namedClient": true,
+      "photos": [
+        "mughilans-avaniyapuram-01.jpg"
+      ],
+      "categories": [
+        "acp"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "file": "anbu-clinic.jpg",
+      "title": "Anbu Clinic",
+      "displayed": false,
+      "mediaType": "Video thumbnail with a baked-in play icon; not an installation still",
+      "update": "SIGNAGE INSTALLED | ANBU CLINIC – MADURAI",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNdy4pq1JQikwIS4kJv3YtZvHng58xyDNBx_MSr=w1400"
+    },
+    {
+      "file": "tata-sierra-launch.jpg",
+      "title": "Tata Sierra EV product launch",
+      "displayed": true,
+      "categories": [
+        "event"
+      ],
+      "captionEvidence": "custom-designed, premium LED Corporate Welcome Arch",
+      "update": "SIGNAGE INSTALLED | TATA SIERRA EV – PRODUCT LAUNCH",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPwkHKab7t3M1p6jSw1V8gIgqKlH-p7xhnh7dqn=w1400"
+    },
+    {
+      "file": "phonic-elite.jpg",
+      "title": "Annet Fire Bee Tech – Phonic Elite",
+      "displayed": true,
+      "categories": [
+        "flex"
+      ],
+      "category": "Printed flex board",
+      "classificationSource": "Owner correction on 2026-11-11: this is flex signage, not an ACP or light board.",
+      "update": "SIGNAGE INSTALLED | ANNET FIRE BEE TECH – PHONIC ELITE",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMe0HCH_RFYUjfpQl59fsU0ilFMNk4VWNvfO-Bu=w1400"
+    },
+    {
+      "file": "reception-led-signage.jpg",
+      "title": "Royal interior logo signage",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "captionEvidence": "Premium Corporate Reception & Backdrop Signage; Premium Corporate Reception Logo Boards; LED Glow Backdrop Logos",
+      "update": "ELEVATE YOUR BUSINESS INTERIOR WITH PREMIUM LED SIGNAGE!",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNCqXre6ZOylbjuo-fBs8G8m4ZljnM10Tm2E0kB=w1400"
+    },
+    {
+      "file": "hp-petroleum.jpg",
+      "title": "SM Bros – HP Petroleum",
+      "displayed": true,
+      "categories": [
+        "led"
+      ],
+      "captionEvidence": "Premium 3D Embossed LED Sign Board; Custom LED Illuminated Letters",
+      "update": "PROJECT COMPLETED | SM BROS – HP PETROLEUM BUNK",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMfk39K_HeVwCNh0fTcJHF6rH-PBV2p1rlL4Jp_=w1400"
+    },
+    {
+      "file": "law-chambers.jpg",
+      "title": "Thangaraj & Richard – Law Chambers",
+      "displayed": true,
+      "categories": [
+        "uv",
+        "reception"
+      ],
+      "captionEvidence": "UV Backlit Sign Board and 3D Embossed LED Glow Logo",
+      "update": "PROJECT COMPLETED | THANGARAJ & RICHARD – LAW CHAMBERS",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNPRvm3VaXu12d1GRWEbti8d7THid23N_O6nn3l=w1400"
+    },
+    {
+      "file": "house-name-board.jpg",
+      "title": "Embossed house name board",
+      "displayed": true,
+      "categories": [
+        "name"
+      ],
+      "captionEvidence": "Minimal Embossed Premium House Name Board; Sphruti Nivas",
+      "update": "PROJECT COMPLETED | Minimal Embossed Premium House Name Board | Sphruti",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOLVw8Em1WkZOqAgBAhFqROfaLFvkO0Ru85vdZT=w1400"
+    },
+    {
+      "file": "uv-backlight-board.jpg",
+      "title": "UV backlight board & slim LED photo frame",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "Premium UV Backlight Board & Slim LED Photo Frame; the pictured item is the backlit sign board",
+      "update": "PROJECT COMPLETED | Premium UV Backlight Board & Slim LED Photo Frame",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNtBNzaM-VpBQiHoTAvFrLZv-LnU2zhWxP22yRB=w1400"
+    },
+    {
+      "file": "led-scrolling-display.jpg",
+      "title": "MK Clinic – LED scrolling display",
+      "displayed": true,
+      "categories": [
+        "display"
+      ],
+      "captionEvidence": "P10 Multicolor LED Scrolling Display Board",
+      "update": "PROJECT COMPLETED | P10 Multicolor LED Scrolling Display Board | MK Clinic",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMEl5enYEyz1Tag80Bq7RePiVKhw1n6m64ruv4J=w1400"
+    },
+    {
+      "file": "rajambigai-update-03.jpg",
+      "title": "Rajambigai Chaats slim LED menu frame",
+      "displayed": true,
+      "categories": [
+        "frame"
+      ],
+      "captionEvidence": "Slim LED Photo Frame; menu highlights; visible still shows the illuminated food menu in a slim frame",
+      "photoContext": "Completed frame photographed before installation; not described as an installed photograph.",
+      "update": "PROJECT COMPLETED | Premium UV Backlight Board & Slim LED Photo Frame | Rajambigai Chaats | Chinnalapatti",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipP2ovNqaTVDqfNcCSdzMIMcwjZK-EvvG2GTZM7d=w1400"
+    },
+    {
+      "file": "anbu-clinic-uv-backlit.jpg",
+      "title": "Anbu Clinic UV backlit glow sign",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "Elite Premium UV Backlit Glow Sign Board; Premium UV Backlit Sign Board",
+      "photoContext": "The genuine still image attached to the update, not the separate video poster. Installed projecting clinic sign photographed in daylight.",
+      "update": "SIGNAGE INSTALLED | ANBU CLINIC – MADURAI",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipM242FB5MAgUwZQJ2JRg7Ezlkc--mHziDN21y7m=w1400"
+    },
+    {
+      "file": "tata-sierra-ev-02.jpg",
+      "displayed": true,
+      "categories": [
+        "event"
+      ],
+      "update": "SIGNAGE INSTALLED | TATA SIERRA EV – PRODUCT LAUNCH",
+      "photoContext": "Illuminated EV arch header photographed in the workshop, before installation.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPOS6amgHcywpSrBGUbdC1-vRnpV9qOhVnjSEpb=w1400"
+    },
+    {
+      "file": "tata-sierra-ev-03.jpg",
+      "displayed": true,
+      "categories": [
+        "event"
+      ],
+      "update": "SIGNAGE INSTALLED | TATA SIERRA EV – PRODUCT LAUNCH",
+      "photoContext": "EV arch header during fabrication, not an installed photograph.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOZDt5BizGItcSY2RX2xemw7_vk5QdsPZ-3sI_m=w1400"
+    },
+    {
+      "file": "phonic-elite-02.jpg",
+      "displayed": true,
+      "categories": [
+        "flex"
+      ],
+      "update": "SIGNAGE INSTALLED | ANNET FIRE BEE TECH – PHONIC ELITE",
+      "classificationSource": "The owner's printed-flex correction applies to every view of this board.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMZMF8l-etfMWtqVmuB2PntjKPijUKvz01BUzgb=w1400"
+    },
+    {
+      "file": "phonic-elite-03.jpg",
+      "displayed": true,
+      "categories": [
+        "flex"
+      ],
+      "update": "SIGNAGE INSTALLED | ANNET FIRE BEE TECH – PHONIC ELITE",
+      "photoContext": "Printed graphic laid out before fitting; not an installation photograph.",
+      "classificationSource": "Owner correction: printed flex, not LED or ACP.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMIhz2cEuxZ1V5kWCeT_-kAy4i7z3Zq_gM2theV=w1400"
+    },
+    {
+      "file": "reception-update-02.jpg",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "update": "ELEVATE YOUR BUSINESS INTERIOR WITH PREMIUM LED SIGNAGE!",
+      "captionEvidence": "Owner's corporate reception/backdrop update; visible signage identifies Sri Jeyaprabha Jewellers, not Royal.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMYBajVvavQezefVRawwoN0TrIivrsws2vZugmx=w1400"
+    },
+    {
+      "file": "reception-update-03.jpg",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "update": "ELEVATE YOUR BUSINESS INTERIOR WITH PREMIUM LED SIGNAGE!",
+      "captionEvidence": "Second view of the Sri Jeyaprabha Jewellers illuminated interior logo in the same update.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPlSQ1JED_ugMbjfiCBk4b5eMfZNvLGU-dfjkDE=w1400"
+    },
+    {
+      "file": "hp-petroleum-02.jpg",
+      "displayed": true,
+      "categories": [
+        "led"
+      ],
+      "update": "PROJECT COMPLETED | SM BROS – HP PETROLEUM BUNK",
+      "photoContext": "The named 3D LED board during fitting outside the premises.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNLgGelSX6thvgaBheD4ocFNg4i96rsuwcnzbRH=w1400"
+    },
+    {
+      "file": "hp-petroleum-03.jpg",
+      "displayed": true,
+      "categories": [
+        "led"
+      ],
+      "update": "PROJECT COMPLETED | SM BROS – HP PETROLEUM BUNK",
+      "photoContext": "LED lighting check showing the illuminated red letters.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOfkS3i8taoR-hlBPm98s5PafNtWHjup-havwAk=w1400"
+    },
+    {
+      "file": "hp-petroleum-04.jpg",
+      "displayed": true,
+      "categories": [
+        "led"
+      ],
+      "update": "PROJECT COMPLETED | SM BROS – HP PETROLEUM BUNK",
+      "photoContext": "Daylight view of the fitted board above the glass entrance.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMCkD81JnKLI0-Z-oH032hSrmG7u7WP-10wPGNn=w1400"
+    },
+    {
+      "file": "law-chambers-02.jpg",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "update": "PROJECT COMPLETED | THANGARAJ & RICHARD – LAW CHAMBERS",
+      "captionEvidence": "UV Backlit Sign Board; pictured illuminated at night.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOFww-u4-TjaGNhkvnvoNtUZu8fKMUBmO6pGW2w=w1400"
+    },
+    {
+      "file": "law-chambers-03.jpg",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "update": "PROJECT COMPLETED | THANGARAJ & RICHARD – LAW CHAMBERS",
+      "captionEvidence": "3D Embossed LED Glow Logo; pictured projecting beside the office at night.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipM5syDHv6RoJXZR9SQjMwGeJwmPCq4jBXlDpUlq=w1400"
+    },
+    {
+      "file": "tata-sierra-01.jpg",
+      "displayed": true,
+      "categories": [
+        "event"
+      ],
+      "update": "PROJECT COMPLETED | TATA SIERRA PRODUCT LAUNCH",
+      "captionEvidence": "custom-designed LED Corporate Welcome Arch",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPlgEtmr6m38dCr8Eg297ckCAbGnQ0FVdcrPYAE=w1400"
+    },
+    {
+      "file": "tata-sierra-02.jpg",
+      "displayed": true,
+      "categories": [
+        "event"
+      ],
+      "update": "PROJECT COMPLETED | TATA SIERRA PRODUCT LAUNCH",
+      "photoContext": "Wide night-time view of the same installed launch arch.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOnoHe0OJ0hfL0ImoTMbd-2eCqQ9EMJcLhP22J6=w1400"
+    },
+    {
+      "file": "tata-sierra-03.jpg",
+      "displayed": true,
+      "categories": [
+        "event"
+      ],
+      "update": "PROJECT COMPLETED | TATA SIERRA PRODUCT LAUNCH",
+      "photoContext": "Portrait view of the same installed launch arch.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOVtlw-BKenh1UcMb9wKw1RUv9ujpyPZgK--w9V=w1400"
+    },
+    {
+      "file": "tata-sierra-04.jpg",
+      "displayed": true,
+      "categories": [
+        "event"
+      ],
+      "update": "PROJECT COMPLETED | TATA SIERRA PRODUCT LAUNCH",
+      "photoContext": "Front view of the same installed launch arch.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMUxxETvGKYqH91QMabFOA91gMtPI-axUB0Dqpk=w1400"
+    },
+    {
+      "file": "tata-sierra-05.jpg",
+      "displayed": true,
+      "categories": [
+        "event"
+      ],
+      "update": "PROJECT COMPLETED | TATA SIERRA PRODUCT LAUNCH",
+      "photoContext": "Close view of the illuminated Tata Sierra header lettering.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipM3Z6Rlb8eH_FVknjl3_R6eIKnqgQBHGUcV0czf=w1400"
+    },
+    {
+      "file": "tata-sierra-06.jpg",
+      "displayed": true,
+      "categories": [
+        "event"
+      ],
+      "update": "PROJECT COMPLETED | TATA SIERRA PRODUCT LAUNCH",
+      "photoContext": "Completed welcome arch outside the showroom.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPVg-ckUcinekMNKPOUVyxmyMVKbZ2582ic2ris=w1400"
+    },
+    {
+      "file": "house-name-board-02.jpg",
+      "displayed": true,
+      "categories": [
+        "name"
+      ],
+      "update": "PROJECT COMPLETED | Minimal Embossed Premium House Name Board | Sphruti Nivas | Madurai",
+      "photoContext": "Name board mounted on the white entrance wall.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOPYqCnOA5jAex_nK3HQGkV0gvmv2Pe9y1KLjBV=w1400"
+    },
+    {
+      "file": "house-name-board-03.jpg",
+      "displayed": true,
+      "categories": [
+        "name"
+      ],
+      "update": "PROJECT COMPLETED | Minimal Embossed Premium House Name Board | Sphruti Nivas | Madurai",
+      "photoContext": "Side view of the fitted name board and entrance.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOdyUq9Yt3SBjcBqgOAj-Dwm2BOo8w37oc3nTDv=w1400"
+    },
+    {
+      "file": "rajambigai-update-02.jpg",
+      "displayed": true,
+      "categories": [],
+      "update": "PROJECT COMPLETED | Premium UV Backlight Board & Slim LED Photo Frame | Rajambigai Chaats | Chinnalapatti",
+      "photoContext": "Exterior sign shown in the same client update. Its material is not specified; the website does not classify this individual board as UV or flex.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMcssfgFtwa4_M3s_vVn8sz-3jNx2xGcIX0KEeB=w1400"
+    },
+    {
+      "file": "rajambigai-update-04.jpg",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "update": "PROJECT COMPLETED | Premium UV Backlight Board & Slim LED Photo Frame | Rajambigai Chaats | Chinnalapatti",
+      "photoContext": "Additional view of the green and gold UV backlit sign.",
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNYqbdcPaG_vi8cOgeK0hXvNRZdWwZlYGoE4iCg=w1400"
+    },
+    {
+      "file": "right-events-01.jpg",
+      "title": "Right Events",
+      "displayed": true,
+      "categories": [
+        "uv",
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 24, 2026 ✨ PROJECT COMPLETED | Premium Event Company Branding & UV Glow Signage | Right Events | Madurai** We proudly completed a premium **corporate branding and signage project for Right Events**, creating a consistent and high-end visual identity across the reception, office interiors, and building elevation. The project includes an **elegant Flowster Glass/Fiber Reception Logo**, a premium **office room backdrop logo**, an illuminated **UV Glow Logo**, and a striking **building front elevation UV Logo** designed for strong visibility and professional brand presentation. ✨ **Project Highlights** ✔ Premium Reception Logo – Flowster Glass/Fiber ✔ Office Room Backdrop Logo ✔ UV Glow Illuminated Logo ✔ Building Front Elevation UV Logo ✔ Premium Corporate Branding ✔ Indoor & Outdoor Signage ✔ Professional Fabrication & Installation The combination of premium materials, illuminated branding, and precision finishing gives **Right Events** a distinctive and professional presence from the reception area to the exterior building frontage. 📍 **Project Location:** Ellis Nagar | Nehru Nagar | Ponmeni | Periyar Bus Stand | Madurai, Tamil Nadu Looking for **premium reception logo boards, office backdrop branding, UV glow logos, building elevation signage, acrylic logos, LED sign boards, or corporate branding in Madurai?** 📞 **CALL NOW for a FREE Site Visit, Design Consultation & Quotation!** VNR Signage & Advertising provides **LED Sign Boards, Acrylic 3D Letters, ACP ElevationMoreCall now",
+      "updateIndex": 10,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMHZakIspRZ8aMpjn6wMHvIPCgg42VumvKmVI7B=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Circular illuminated logo on a wooden office backdrop"
+    },
+    {
+      "file": "right-events-02.jpg",
+      "title": "Right Events",
+      "displayed": true,
+      "categories": [
+        "uv",
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 24, 2026 ✨ PROJECT COMPLETED | Premium Event Company Branding & UV Glow Signage | Right Events | Madurai** We proudly completed a premium **corporate branding and signage project for Right Events**, creating a consistent and high-end visual identity across the reception, office interiors, and building elevation. The project includes an **elegant Flowster Glass/Fiber Reception Logo**, a premium **office room backdrop logo**, an illuminated **UV Glow Logo**, and a striking **building front elevation UV Logo** designed for strong visibility and professional brand presentation. ✨ **Project Highlights** ✔ Premium Reception Logo – Flowster Glass/Fiber ✔ Office Room Backdrop Logo ✔ UV Glow Illuminated Logo ✔ Building Front Elevation UV Logo ✔ Premium Corporate Branding ✔ Indoor & Outdoor Signage ✔ Professional Fabrication & Installation The combination of premium materials, illuminated branding, and precision finishing gives **Right Events** a distinctive and professional presence from the reception area to the exterior building frontage. 📍 **Project Location:** Ellis Nagar | Nehru Nagar | Ponmeni | Periyar Bus Stand | Madurai, Tamil Nadu Looking for **premium reception logo boards, office backdrop branding, UV glow logos, building elevation signage, acrylic logos, LED sign boards, or corporate branding in Madurai?** 📞 **CALL NOW for a FREE Site Visit, Design Consultation & Quotation!** VNR Signage & Advertising provides **LED Sign Boards, Acrylic 3D Letters, ACP ElevationMoreCall now",
+      "updateIndex": 10,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipN0_RFgiSSk9VyJ9ifKAIfNEPYqLtwncqD0bUhs=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Wide view of the fitted office backdrop and illuminated logo"
+    },
+    {
+      "file": "right-events-03.jpg",
+      "title": "Right Events",
+      "displayed": true,
+      "categories": [
+        "uv",
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 24, 2026 ✨ PROJECT COMPLETED | Premium Event Company Branding & UV Glow Signage | Right Events | Madurai** We proudly completed a premium **corporate branding and signage project for Right Events**, creating a consistent and high-end visual identity across the reception, office interiors, and building elevation. The project includes an **elegant Flowster Glass/Fiber Reception Logo**, a premium **office room backdrop logo**, an illuminated **UV Glow Logo**, and a striking **building front elevation UV Logo** designed for strong visibility and professional brand presentation. ✨ **Project Highlights** ✔ Premium Reception Logo – Flowster Glass/Fiber ✔ Office Room Backdrop Logo ✔ UV Glow Illuminated Logo ✔ Building Front Elevation UV Logo ✔ Premium Corporate Branding ✔ Indoor & Outdoor Signage ✔ Professional Fabrication & Installation The combination of premium materials, illuminated branding, and precision finishing gives **Right Events** a distinctive and professional presence from the reception area to the exterior building frontage. 📍 **Project Location:** Ellis Nagar | Nehru Nagar | Ponmeni | Periyar Bus Stand | Madurai, Tamil Nadu Looking for **premium reception logo boards, office backdrop branding, UV glow logos, building elevation signage, acrylic logos, LED sign boards, or corporate branding in Madurai?** 📞 **CALL NOW for a FREE Site Visit, Design Consultation & Quotation!** VNR Signage & Advertising provides **LED Sign Boards, Acrylic 3D Letters, ACP ElevationMoreCall now",
+      "updateIndex": 10,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNy6ts1BusYYukNJgmvrYUi-uFm8galIdZoM79O=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Reception counter with illuminated red branding"
+    },
+    {
+      "file": "right-events-04.jpg",
+      "title": "Right Events",
+      "displayed": true,
+      "categories": [
+        "uv",
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 24, 2026 ✨ PROJECT COMPLETED | Premium Event Company Branding & UV Glow Signage | Right Events | Madurai** We proudly completed a premium **corporate branding and signage project for Right Events**, creating a consistent and high-end visual identity across the reception, office interiors, and building elevation. The project includes an **elegant Flowster Glass/Fiber Reception Logo**, a premium **office room backdrop logo**, an illuminated **UV Glow Logo**, and a striking **building front elevation UV Logo** designed for strong visibility and professional brand presentation. ✨ **Project Highlights** ✔ Premium Reception Logo – Flowster Glass/Fiber ✔ Office Room Backdrop Logo ✔ UV Glow Illuminated Logo ✔ Building Front Elevation UV Logo ✔ Premium Corporate Branding ✔ Indoor & Outdoor Signage ✔ Professional Fabrication & Installation The combination of premium materials, illuminated branding, and precision finishing gives **Right Events** a distinctive and professional presence from the reception area to the exterior building frontage. 📍 **Project Location:** Ellis Nagar | Nehru Nagar | Ponmeni | Periyar Bus Stand | Madurai, Tamil Nadu Looking for **premium reception logo boards, office backdrop branding, UV glow logos, building elevation signage, acrylic logos, LED sign boards, or corporate branding in Madurai?** 📞 **CALL NOW for a FREE Site Visit, Design Consultation & Quotation!** VNR Signage & Advertising provides **LED Sign Boards, Acrylic 3D Letters, ACP ElevationMoreCall now",
+      "updateIndex": 10,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOH5XRHEm548UwkhRbq-9ZTo1qhgi6HpIJPKQ1w=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Exterior building identity mounted on the facade"
+    },
+    {
+      "file": "pro-express-logistics-01.jpg",
+      "title": "Pro Express Logistics Pvt. Ltd.",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 16, 2026 ✨ **PROJECT COMPLETED | Premium UV Backlight Sign Board | Pro Express Logistics Pvt. Ltd. | Madurai** We proudly completed a **premium UV Backlight Sign Board** for **Pro Express Logistics Pvt. Ltd.**, designed to deliver strong brand visibility, sharp graphics, and an elegant illuminated appearance for the business entrance. The signage combines **high-quality UV printing, premium backlighting, vibrant branding, and professional fabrication**, creating excellent visibility both day and night. A durable solution for logistics offices, warehouses, commercial buildings, and corporate establishments. 📍 **Project Location:** HMS Colony, Doak Nagar, Kochadai, Kalavasal, Madurai, Tamil Nadu ### ✨ Project Highlights ✔ Premium UV Backlight Sign Board ✔ High-Resolution UV Printing ✔ Bright & Even LED Illumination ✔ Professional Corporate Branding ✔ Durable Outdoor Signage ✔ Excellent Day & Night Visibility ✔ Custom Design & Fabrication Looking for a **UV Backlight Sign Board, LED Sign Board, office signage, logistics branding, ACP signage, acrylic logo board, or commercial sign board in Madurai?** VNR Signage & Advertising provides **UV Backlight Boards, LED Sign Boards, Acrylic Letter Boards, ACP Signage, Reception Logo Boards, Office Branding, Industrial Signage, Wayfinding Boards, and Commercial Branding Solutions**. 📞 **CALL NOW for a FREE Site Visit, Design Consultation & Quotation!** #ProExpressLogistics #UVBacklightBoard #UVSignBoard #LEDSignBoard #OfficeSignage MoreCall now",
+      "updateIndex": 11,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPUxrp2vDmg4fr1WW5WCxdUazgnEMmvRku6aqlX=w1400",
+      "width": 1080,
+      "height": 1118,
+      "alt": "Outdoor projecting logistics sign in daylight"
+    },
+    {
+      "file": "pro-express-logistics-02.jpg",
+      "title": "Pro Express Logistics Pvt. Ltd.",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 16, 2026 ✨ **PROJECT COMPLETED | Premium UV Backlight Sign Board | Pro Express Logistics Pvt. Ltd. | Madurai** We proudly completed a **premium UV Backlight Sign Board** for **Pro Express Logistics Pvt. Ltd.**, designed to deliver strong brand visibility, sharp graphics, and an elegant illuminated appearance for the business entrance. The signage combines **high-quality UV printing, premium backlighting, vibrant branding, and professional fabrication**, creating excellent visibility both day and night. A durable solution for logistics offices, warehouses, commercial buildings, and corporate establishments. 📍 **Project Location:** HMS Colony, Doak Nagar, Kochadai, Kalavasal, Madurai, Tamil Nadu ### ✨ Project Highlights ✔ Premium UV Backlight Sign Board ✔ High-Resolution UV Printing ✔ Bright & Even LED Illumination ✔ Professional Corporate Branding ✔ Durable Outdoor Signage ✔ Excellent Day & Night Visibility ✔ Custom Design & Fabrication Looking for a **UV Backlight Sign Board, LED Sign Board, office signage, logistics branding, ACP signage, acrylic logo board, or commercial sign board in Madurai?** VNR Signage & Advertising provides **UV Backlight Boards, LED Sign Boards, Acrylic Letter Boards, ACP Signage, Reception Logo Boards, Office Branding, Industrial Signage, Wayfinding Boards, and Commercial Branding Solutions**. 📞 **CALL NOW for a FREE Site Visit, Design Consultation & Quotation!** #ProExpressLogistics #UVBacklightBoard #UVSignBoard #LEDSignBoard #OfficeSignage MoreCall now",
+      "updateIndex": 11,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNxT-mhjvvBP6QEzoGiUb2En22Dzv6-uLjcbe5n=w1400",
+      "width": 1214,
+      "height": 1600,
+      "alt": "Owner's before-and-after installation photographs"
+    },
+    {
+      "file": "pro-express-logistics-03.jpg",
+      "title": "Pro Express Logistics Pvt. Ltd.",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 16, 2026 ✨ **PROJECT COMPLETED | Premium UV Backlight Sign Board | Pro Express Logistics Pvt. Ltd. | Madurai** We proudly completed a **premium UV Backlight Sign Board** for **Pro Express Logistics Pvt. Ltd.**, designed to deliver strong brand visibility, sharp graphics, and an elegant illuminated appearance for the business entrance. The signage combines **high-quality UV printing, premium backlighting, vibrant branding, and professional fabrication**, creating excellent visibility both day and night. A durable solution for logistics offices, warehouses, commercial buildings, and corporate establishments. 📍 **Project Location:** HMS Colony, Doak Nagar, Kochadai, Kalavasal, Madurai, Tamil Nadu ### ✨ Project Highlights ✔ Premium UV Backlight Sign Board ✔ High-Resolution UV Printing ✔ Bright & Even LED Illumination ✔ Professional Corporate Branding ✔ Durable Outdoor Signage ✔ Excellent Day & Night Visibility ✔ Custom Design & Fabrication Looking for a **UV Backlight Sign Board, LED Sign Board, office signage, logistics branding, ACP signage, acrylic logo board, or commercial sign board in Madurai?** VNR Signage & Advertising provides **UV Backlight Boards, LED Sign Boards, Acrylic Letter Boards, ACP Signage, Reception Logo Boards, Office Branding, Industrial Signage, Wayfinding Boards, and Commercial Branding Solutions**. 📞 **CALL NOW for a FREE Site Visit, Design Consultation & Quotation!** #ProExpressLogistics #UVBacklightBoard #UVSignBoard #LEDSignBoard #OfficeSignage MoreCall now",
+      "updateIndex": 11,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipP2iKc9z669vBK66D6ceNooFdO-yklLGJ0rA3TX=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Printed sign material running through the workshop printer"
+    },
+    {
+      "file": "pro-express-logistics-04.jpg",
+      "title": "Pro Express Logistics Pvt. Ltd.",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 16, 2026 ✨ **PROJECT COMPLETED | Premium UV Backlight Sign Board | Pro Express Logistics Pvt. Ltd. | Madurai** We proudly completed a **premium UV Backlight Sign Board** for **Pro Express Logistics Pvt. Ltd.**, designed to deliver strong brand visibility, sharp graphics, and an elegant illuminated appearance for the business entrance. The signage combines **high-quality UV printing, premium backlighting, vibrant branding, and professional fabrication**, creating excellent visibility both day and night. A durable solution for logistics offices, warehouses, commercial buildings, and corporate establishments. 📍 **Project Location:** HMS Colony, Doak Nagar, Kochadai, Kalavasal, Madurai, Tamil Nadu ### ✨ Project Highlights ✔ Premium UV Backlight Sign Board ✔ High-Resolution UV Printing ✔ Bright & Even LED Illumination ✔ Professional Corporate Branding ✔ Durable Outdoor Signage ✔ Excellent Day & Night Visibility ✔ Custom Design & Fabrication Looking for a **UV Backlight Sign Board, LED Sign Board, office signage, logistics branding, ACP signage, acrylic logo board, or commercial sign board in Madurai?** VNR Signage & Advertising provides **UV Backlight Boards, LED Sign Boards, Acrylic Letter Boards, ACP Signage, Reception Logo Boards, Office Branding, Industrial Signage, Wayfinding Boards, and Commercial Branding Solutions**. 📞 **CALL NOW for a FREE Site Visit, Design Consultation & Quotation!** #ProExpressLogistics #UVBacklightBoard #UVSignBoard #LEDSignBoard #OfficeSignage MoreCall now",
+      "updateIndex": 11,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPRM3gYnRmEhb6KbrN2OVSYPwEeld79TpMZZsZT=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Installed logistics sign beside the entrance"
+    },
+    {
+      "file": "jazz-photography-01.jpg",
+      "title": "Jazz Photography",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 16, 2026 📸 Jazz Photography | Premium Reception Logo Board | Fluted Glass & Fibre Finish | Aruppukottai ✨ PROJECT COMPLETED | ELITE RECEPTION BRANDING We proudly completed a premium reception logo board for Jazz Photography in Aruppukottai, designed with an elegant fluted glass and fibre finish to create a sophisticated, modern studio entrance. The combination of a premium logo treatment, textured fluted glass and refined fibre detailing gives the reception a distinctive luxury photography studio look while strengthening brand visibility and customer experience. 📍 Project Location: Aruppukottai, Tamil Nadu Premium Signage Solutions ✔ Reception Logo Boards ✔ Fluted Glass Branding ✔ Fibre Logo Boards ✔ Acrylic Logo Signage ✔ Photography Studio Branding ✔ Office & Commercial Signage ✔ Premium Interior Branding ✔ Custom Reception Signage Looking for a premium reception logo board, photography studio signage or office branding in Aruppukottai or Madurai? 📞 CALL NOW for a FREE Site Visit, Design Consultation & Quotation! #JazzPhotography #ReceptionLogoBoard #PhotographyStudioBranding #FlutedGlass #FlutedGlassSignage #FibreLogoBoard #ReceptionBranding #PremiumSignage #InteriorSignage #AcrylicLogoBoard #OfficeBranding #CommercialSignage #Aruppukottai #AruppukottaiBusiness #MaduraiSignBoard #SignBoardManufacturer #BusinessBranding #StudioSignage MoreCall now",
+      "updateIndex": 12,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipObhCMLXrUg37OwLG-9NV_ZAQkuNnEBKtRcyTkR=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Dimensional black studio lettering before fitting"
+    },
+    {
+      "file": "jazz-photography-02.jpg",
+      "title": "Jazz Photography",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 16, 2026 📸 Jazz Photography | Premium Reception Logo Board | Fluted Glass & Fibre Finish | Aruppukottai ✨ PROJECT COMPLETED | ELITE RECEPTION BRANDING We proudly completed a premium reception logo board for Jazz Photography in Aruppukottai, designed with an elegant fluted glass and fibre finish to create a sophisticated, modern studio entrance. The combination of a premium logo treatment, textured fluted glass and refined fibre detailing gives the reception a distinctive luxury photography studio look while strengthening brand visibility and customer experience. 📍 Project Location: Aruppukottai, Tamil Nadu Premium Signage Solutions ✔ Reception Logo Boards ✔ Fluted Glass Branding ✔ Fibre Logo Boards ✔ Acrylic Logo Signage ✔ Photography Studio Branding ✔ Office & Commercial Signage ✔ Premium Interior Branding ✔ Custom Reception Signage Looking for a premium reception logo board, photography studio signage or office branding in Aruppukottai or Madurai? 📞 CALL NOW for a FREE Site Visit, Design Consultation & Quotation! #JazzPhotography #ReceptionLogoBoard #PhotographyStudioBranding #FlutedGlass #FlutedGlassSignage #FibreLogoBoard #ReceptionBranding #PremiumSignage #InteriorSignage #AcrylicLogoBoard #OfficeBranding #CommercialSignage #Aruppukottai #AruppukottaiBusiness #MaduraiSignBoard #SignBoardManufacturer #BusinessBranding #StudioSignage MoreCall now",
+      "updateIndex": 12,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOQVS431b9LYc2ihacUUx3qVKR5fTfSSsqTFsIk=w1400",
+      "width": 1400,
+      "height": 3032,
+      "alt": "Finished studio reception with logo and fluted wall detailing"
+    },
+    {
+      "file": "jazz-photography-03.jpg",
+      "title": "Jazz Photography",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 16, 2026 📸 Jazz Photography | Premium Reception Logo Board | Fluted Glass & Fibre Finish | Aruppukottai ✨ PROJECT COMPLETED | ELITE RECEPTION BRANDING We proudly completed a premium reception logo board for Jazz Photography in Aruppukottai, designed with an elegant fluted glass and fibre finish to create a sophisticated, modern studio entrance. The combination of a premium logo treatment, textured fluted glass and refined fibre detailing gives the reception a distinctive luxury photography studio look while strengthening brand visibility and customer experience. 📍 Project Location: Aruppukottai, Tamil Nadu Premium Signage Solutions ✔ Reception Logo Boards ✔ Fluted Glass Branding ✔ Fibre Logo Boards ✔ Acrylic Logo Signage ✔ Photography Studio Branding ✔ Office & Commercial Signage ✔ Premium Interior Branding ✔ Custom Reception Signage Looking for a premium reception logo board, photography studio signage or office branding in Aruppukottai or Madurai? 📞 CALL NOW for a FREE Site Visit, Design Consultation & Quotation! #JazzPhotography #ReceptionLogoBoard #PhotographyStudioBranding #FlutedGlass #FlutedGlassSignage #FibreLogoBoard #ReceptionBranding #PremiumSignage #InteriorSignage #AcrylicLogoBoard #OfficeBranding #CommercialSignage #Aruppukottai #AruppukottaiBusiness #MaduraiSignBoard #SignBoardManufacturer #BusinessBranding #StudioSignage MoreCall now",
+      "updateIndex": 12,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNsjtwAwN6P_3bEYwU12fNJgPIvIOf0q_8PyPyf=w1400",
+      "width": 1400,
+      "height": 3032,
+      "alt": "Front view of the fitted logo on its fluted backdrop"
+    },
+    {
+      "file": "jazz-photography-04.jpg",
+      "title": "Jazz Photography",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 16, 2026 📸 Jazz Photography | Premium Reception Logo Board | Fluted Glass & Fibre Finish | Aruppukottai ✨ PROJECT COMPLETED | ELITE RECEPTION BRANDING We proudly completed a premium reception logo board for Jazz Photography in Aruppukottai, designed with an elegant fluted glass and fibre finish to create a sophisticated, modern studio entrance. The combination of a premium logo treatment, textured fluted glass and refined fibre detailing gives the reception a distinctive luxury photography studio look while strengthening brand visibility and customer experience. 📍 Project Location: Aruppukottai, Tamil Nadu Premium Signage Solutions ✔ Reception Logo Boards ✔ Fluted Glass Branding ✔ Fibre Logo Boards ✔ Acrylic Logo Signage ✔ Photography Studio Branding ✔ Office & Commercial Signage ✔ Premium Interior Branding ✔ Custom Reception Signage Looking for a premium reception logo board, photography studio signage or office branding in Aruppukottai or Madurai? 📞 CALL NOW for a FREE Site Visit, Design Consultation & Quotation! #JazzPhotography #ReceptionLogoBoard #PhotographyStudioBranding #FlutedGlass #FlutedGlassSignage #FibreLogoBoard #ReceptionBranding #PremiumSignage #InteriorSignage #AcrylicLogoBoard #OfficeBranding #CommercialSignage #Aruppukottai #AruppukottaiBusiness #MaduraiSignBoard #SignBoardManufacturer #BusinessBranding #StudioSignage MoreCall now",
+      "updateIndex": 12,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOJNej1s6_NcuFc_KAuti0Tse8FM25-dOW6l-t5=w1400",
+      "width": 653,
+      "height": 1599,
+      "alt": "Dimensional studio logo photographed during fabrication"
+    },
+    {
+      "file": "yaazhisai-elite-01.jpg",
+      "title": "Yaazhisai Elite Health Care & Acu Boutique",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 1, 2026 🚀🏆 PROJECT COMPLETED | Premium Healthcare Signage & Clinic Branding | Yaazhisai Elite Health Care & Acu Boutique | Madurai We're proud to have completed a premium healthcare signage project for Yaazhisai Elite Hea… MoreCall now",
+      "updateIndex": 13,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMwbG3vjA6OLNHip3RNqLy65MfJ6_5Z2M1ME7iz=w1400",
+      "width": 1054,
+      "height": 1600,
+      "alt": "Illuminated clinic entrance sign at night"
+    },
+    {
+      "file": "yaazhisai-elite-02.jpg",
+      "title": "Yaazhisai Elite Health Care & Acu Boutique",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 1, 2026 🚀🏆 PROJECT COMPLETED | Premium Healthcare Signage & Clinic Branding | Yaazhisai Elite Health Care & Acu Boutique | Madurai We're proud to have completed a premium healthcare signage project for Yaazhisai Elite Hea… MoreCall now",
+      "updateIndex": 13,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipP0aBZaUj3qvKjQlhLGagZx4mCjCwO1PXhrnhOb=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Interior clinic logo on a textured wall"
+    },
+    {
+      "file": "yaazhisai-elite-03.jpg",
+      "title": "Yaazhisai Elite Health Care & Acu Boutique",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 1, 2026 🚀🏆 PROJECT COMPLETED | Premium Healthcare Signage & Clinic Branding | Yaazhisai Elite Health Care & Acu Boutique | Madurai We're proud to have completed a premium healthcare signage project for Yaazhisai Elite Hea… MoreCall now",
+      "updateIndex": 13,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipORnSIcIDcPrl_MmpiWMqPpRwYrO3wrE39z258d=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Clinic entrance signs in daylight"
+    },
+    {
+      "file": "yaazhisai-elite-04.jpg",
+      "title": "Yaazhisai Elite Health Care & Acu Boutique",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 1, 2026 🚀🏆 PROJECT COMPLETED | Premium Healthcare Signage & Clinic Branding | Yaazhisai Elite Health Care & Acu Boutique | Madurai We're proud to have completed a premium healthcare signage project for Yaazhisai Elite Hea… MoreCall now",
+      "updateIndex": 13,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMFW5EMYIcNinD4CHRKjYdBQlkSHTMyygspM6Af=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Clinic name board fixed to an interior wall"
+    },
+    {
+      "file": "yaazhisai-elite-05.jpg",
+      "title": "Yaazhisai Elite Health Care & Acu Boutique",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 1, 2026 🚀🏆 PROJECT COMPLETED | Premium Healthcare Signage & Clinic Branding | Yaazhisai Elite Health Care & Acu Boutique | Madurai We're proud to have completed a premium healthcare signage project for Yaazhisai Elite Hea… MoreCall now",
+      "updateIndex": 13,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPc1R5m2bvoj5ssPAppdmoM-7dQR8T3SnIO45Ds=w1400",
+      "width": 1214,
+      "height": 1600,
+      "alt": "Owner's day-and-night comparison of the fitted signs"
+    },
+    {
+      "file": "yaazhisai-elite-06.jpg",
+      "title": "Yaazhisai Elite Health Care & Acu Boutique",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingAug 1, 2026 🚀🏆 PROJECT COMPLETED | Premium Healthcare Signage & Clinic Branding | Yaazhisai Elite Health Care & Acu Boutique | Madurai We're proud to have completed a premium healthcare signage project for Yaazhisai Elite Hea… MoreCall now",
+      "updateIndex": 13,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPJpAb63sesjxYFRrb_SxLHBfxSA7xyDfjjUwWX=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Ground-level view of the clinic entrance branding"
+    },
+    {
+      "file": "rajambigai-sweets-01.jpg",
+      "title": "Rajambigai Sweets & Snacks",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 🏆 Since 1969 | Rajambigai Sweets & Snacks | Premium ACP Elevation & LED Acrylic Letter Glow Sign Board | Chinnalapatti, Dindigul We're proud to complete a premium ACP front elevation with LED acrylic letter glow signage for Rajambigai Sweets & Snacks, one of Chinnalapatti's well-known traditional sweet shops since 1969. This project features a modern ACP façade, precision-crafted acrylic 3D LED letters, bright illumination, and a weather-resistant finish to create a premium storefront that attracts customers both day and night. ✨ ACP Elevation Work ✨ LED Acrylic 3D Letter Sign Board ✨ Premium Shop Front Branding ✨ High-Visibility Glow Sign Board ✨ Outdoor Commercial Signage ✨ Professional Installation 📍 Location: Chinnalapatti, Dindigul Near Madurai Road | Kodai Road | Pallapatti Road | Vadipatti Looking for a Sign Board Manufacturer in Madurai or Dindigul? We specialize in: ✔ ACP Sign Boards ✔ LED Letter Boards ✔ Acrylic Sign Boards ✔ Glow Sign Boards ✔ Sweet Shop Signage ✔ Bakery Sign Boards ✔ Hospital Sign Boards ✔ Showroom Branding ✔ Commercial Signage ✔ Outdoor Advertising Boards 📞 Contact us for custom signage design, fabrication, and installation across Tamil Nadu. #RajambigaiSweets #Since1969 #Chinnalapatti #Dindigul #SweetShopSignBoard #LEDAcrylicLetters #ACPCladding #GlowSignBoard #ShopFrontBranding #CommercialSignage #SignBoardManufacturer #MaduraiSignBoard #DindigulBusiness #OutdoorSignage #BusinessBranding Sign Board Manufacturer Madurai,MoreCall now",
+      "updateIndex": 14,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPUiVWDGb-6-3-yHZryIGAfAqQ9-N4oisfToknf=w1400",
+      "width": 1076,
+      "height": 1600,
+      "alt": "Illuminated sweets-shop facade at night"
+    },
+    {
+      "file": "rajambigai-sweets-02.jpg",
+      "title": "Rajambigai Sweets & Snacks",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 🏆 Since 1969 | Rajambigai Sweets & Snacks | Premium ACP Elevation & LED Acrylic Letter Glow Sign Board | Chinnalapatti, Dindigul We're proud to complete a premium ACP front elevation with LED acrylic letter glow signage for Rajambigai Sweets & Snacks, one of Chinnalapatti's well-known traditional sweet shops since 1969. This project features a modern ACP façade, precision-crafted acrylic 3D LED letters, bright illumination, and a weather-resistant finish to create a premium storefront that attracts customers both day and night. ✨ ACP Elevation Work ✨ LED Acrylic 3D Letter Sign Board ✨ Premium Shop Front Branding ✨ High-Visibility Glow Sign Board ✨ Outdoor Commercial Signage ✨ Professional Installation 📍 Location: Chinnalapatti, Dindigul Near Madurai Road | Kodai Road | Pallapatti Road | Vadipatti Looking for a Sign Board Manufacturer in Madurai or Dindigul? We specialize in: ✔ ACP Sign Boards ✔ LED Letter Boards ✔ Acrylic Sign Boards ✔ Glow Sign Boards ✔ Sweet Shop Signage ✔ Bakery Sign Boards ✔ Hospital Sign Boards ✔ Showroom Branding ✔ Commercial Signage ✔ Outdoor Advertising Boards 📞 Contact us for custom signage design, fabrication, and installation across Tamil Nadu. #RajambigaiSweets #Since1969 #Chinnalapatti #Dindigul #SweetShopSignBoard #LEDAcrylicLetters #ACPCladding #GlowSignBoard #ShopFrontBranding #CommercialSignage #SignBoardManufacturer #MaduraiSignBoard #DindigulBusiness #OutdoorSignage #BusinessBranding Sign Board Manufacturer Madurai,MoreCall now",
+      "updateIndex": 14,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNkXaj5VeFTU08hAcM5sutfqx83IIZOH3Yy1lig=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's day-and-night storefront photographs"
+    },
+    {
+      "file": "rajambigai-sweets-03.jpg",
+      "title": "Rajambigai Sweets & Snacks",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 🏆 Since 1969 | Rajambigai Sweets & Snacks | Premium ACP Elevation & LED Acrylic Letter Glow Sign Board | Chinnalapatti, Dindigul We're proud to complete a premium ACP front elevation with LED acrylic letter glow signage for Rajambigai Sweets & Snacks, one of Chinnalapatti's well-known traditional sweet shops since 1969. This project features a modern ACP façade, precision-crafted acrylic 3D LED letters, bright illumination, and a weather-resistant finish to create a premium storefront that attracts customers both day and night. ✨ ACP Elevation Work ✨ LED Acrylic 3D Letter Sign Board ✨ Premium Shop Front Branding ✨ High-Visibility Glow Sign Board ✨ Outdoor Commercial Signage ✨ Professional Installation 📍 Location: Chinnalapatti, Dindigul Near Madurai Road | Kodai Road | Pallapatti Road | Vadipatti Looking for a Sign Board Manufacturer in Madurai or Dindigul? We specialize in: ✔ ACP Sign Boards ✔ LED Letter Boards ✔ Acrylic Sign Boards ✔ Glow Sign Boards ✔ Sweet Shop Signage ✔ Bakery Sign Boards ✔ Hospital Sign Boards ✔ Showroom Branding ✔ Commercial Signage ✔ Outdoor Advertising Boards 📞 Contact us for custom signage design, fabrication, and installation across Tamil Nadu. #RajambigaiSweets #Since1969 #Chinnalapatti #Dindigul #SweetShopSignBoard #LEDAcrylicLetters #ACPCladding #GlowSignBoard #ShopFrontBranding #CommercialSignage #SignBoardManufacturer #MaduraiSignBoard #DindigulBusiness #OutdoorSignage #BusinessBranding Sign Board Manufacturer Madurai,MoreCall now",
+      "updateIndex": 14,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOqyh375PXWAT1wNdK6538tLqJpBl_KautBaTOv=w1400",
+      "width": 1400,
+      "height": 787,
+      "alt": "Acrylic letter sign illuminated during fabrication"
+    },
+    {
+      "file": "rajambigai-sweets-04.jpg",
+      "title": "Rajambigai Sweets & Snacks",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 🏆 Since 1969 | Rajambigai Sweets & Snacks | Premium ACP Elevation & LED Acrylic Letter Glow Sign Board | Chinnalapatti, Dindigul We're proud to complete a premium ACP front elevation with LED acrylic letter glow signage for Rajambigai Sweets & Snacks, one of Chinnalapatti's well-known traditional sweet shops since 1969. This project features a modern ACP façade, precision-crafted acrylic 3D LED letters, bright illumination, and a weather-resistant finish to create a premium storefront that attracts customers both day and night. ✨ ACP Elevation Work ✨ LED Acrylic 3D Letter Sign Board ✨ Premium Shop Front Branding ✨ High-Visibility Glow Sign Board ✨ Outdoor Commercial Signage ✨ Professional Installation 📍 Location: Chinnalapatti, Dindigul Near Madurai Road | Kodai Road | Pallapatti Road | Vadipatti Looking for a Sign Board Manufacturer in Madurai or Dindigul? We specialize in: ✔ ACP Sign Boards ✔ LED Letter Boards ✔ Acrylic Sign Boards ✔ Glow Sign Boards ✔ Sweet Shop Signage ✔ Bakery Sign Boards ✔ Hospital Sign Boards ✔ Showroom Branding ✔ Commercial Signage ✔ Outdoor Advertising Boards 📞 Contact us for custom signage design, fabrication, and installation across Tamil Nadu. #RajambigaiSweets #Since1969 #Chinnalapatti #Dindigul #SweetShopSignBoard #LEDAcrylicLetters #ACPCladding #GlowSignBoard #ShopFrontBranding #CommercialSignage #SignBoardManufacturer #MaduraiSignBoard #DindigulBusiness #OutdoorSignage #BusinessBranding Sign Board Manufacturer Madurai,MoreCall now",
+      "updateIndex": 14,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipN1ykvnlSzBKGejnYZEHWf9vqWO5NJDJQ4MxotT=w1400",
+      "width": 1400,
+      "height": 627,
+      "alt": "Angled view of the glowing sweets-shop lettering"
+    },
+    {
+      "file": "rajambigai-sweets-05.jpg",
+      "title": "Rajambigai Sweets & Snacks",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 🏆 Since 1969 | Rajambigai Sweets & Snacks | Premium ACP Elevation & LED Acrylic Letter Glow Sign Board | Chinnalapatti, Dindigul We're proud to complete a premium ACP front elevation with LED acrylic letter glow signage for Rajambigai Sweets & Snacks, one of Chinnalapatti's well-known traditional sweet shops since 1969. This project features a modern ACP façade, precision-crafted acrylic 3D LED letters, bright illumination, and a weather-resistant finish to create a premium storefront that attracts customers both day and night. ✨ ACP Elevation Work ✨ LED Acrylic 3D Letter Sign Board ✨ Premium Shop Front Branding ✨ High-Visibility Glow Sign Board ✨ Outdoor Commercial Signage ✨ Professional Installation 📍 Location: Chinnalapatti, Dindigul Near Madurai Road | Kodai Road | Pallapatti Road | Vadipatti Looking for a Sign Board Manufacturer in Madurai or Dindigul? We specialize in: ✔ ACP Sign Boards ✔ LED Letter Boards ✔ Acrylic Sign Boards ✔ Glow Sign Boards ✔ Sweet Shop Signage ✔ Bakery Sign Boards ✔ Hospital Sign Boards ✔ Showroom Branding ✔ Commercial Signage ✔ Outdoor Advertising Boards 📞 Contact us for custom signage design, fabrication, and installation across Tamil Nadu. #RajambigaiSweets #Since1969 #Chinnalapatti #Dindigul #SweetShopSignBoard #LEDAcrylicLetters #ACPCladding #GlowSignBoard #ShopFrontBranding #CommercialSignage #SignBoardManufacturer #MaduraiSignBoard #DindigulBusiness #OutdoorSignage #BusinessBranding Sign Board Manufacturer Madurai,MoreCall now",
+      "updateIndex": 14,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipM3cTaYS_CitxsQJZpslXB5V-OfGFz1c4gN48Aw=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Finished sign photographed before installation"
+    },
+    {
+      "file": "rajambigai-sweets-06.jpg",
+      "title": "Rajambigai Sweets & Snacks",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 🏆 Since 1969 | Rajambigai Sweets & Snacks | Premium ACP Elevation & LED Acrylic Letter Glow Sign Board | Chinnalapatti, Dindigul We're proud to complete a premium ACP front elevation with LED acrylic letter glow signage for Rajambigai Sweets & Snacks, one of Chinnalapatti's well-known traditional sweet shops since 1969. This project features a modern ACP façade, precision-crafted acrylic 3D LED letters, bright illumination, and a weather-resistant finish to create a premium storefront that attracts customers both day and night. ✨ ACP Elevation Work ✨ LED Acrylic 3D Letter Sign Board ✨ Premium Shop Front Branding ✨ High-Visibility Glow Sign Board ✨ Outdoor Commercial Signage ✨ Professional Installation 📍 Location: Chinnalapatti, Dindigul Near Madurai Road | Kodai Road | Pallapatti Road | Vadipatti Looking for a Sign Board Manufacturer in Madurai or Dindigul? We specialize in: ✔ ACP Sign Boards ✔ LED Letter Boards ✔ Acrylic Sign Boards ✔ Glow Sign Boards ✔ Sweet Shop Signage ✔ Bakery Sign Boards ✔ Hospital Sign Boards ✔ Showroom Branding ✔ Commercial Signage ✔ Outdoor Advertising Boards 📞 Contact us for custom signage design, fabrication, and installation across Tamil Nadu. #RajambigaiSweets #Since1969 #Chinnalapatti #Dindigul #SweetShopSignBoard #LEDAcrylicLetters #ACPCladding #GlowSignBoard #ShopFrontBranding #CommercialSignage #SignBoardManufacturer #MaduraiSignBoard #DindigulBusiness #OutdoorSignage #BusinessBranding Sign Board Manufacturer Madurai,MoreCall now",
+      "updateIndex": 14,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOv2C7B6TWLuCUwgzl9lKKkpWuFqeTUqyk0Cyoh=w1400",
+      "width": 1400,
+      "height": 787,
+      "alt": "Acrylic letter components being assembled in the workshop"
+    },
+    {
+      "file": "rajambigai-sweets-07.jpg",
+      "title": "Rajambigai Sweets & Snacks",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 🏆 Since 1969 | Rajambigai Sweets & Snacks | Premium ACP Elevation & LED Acrylic Letter Glow Sign Board | Chinnalapatti, Dindigul We're proud to complete a premium ACP front elevation with LED acrylic letter glow signage for Rajambigai Sweets & Snacks, one of Chinnalapatti's well-known traditional sweet shops since 1969. This project features a modern ACP façade, precision-crafted acrylic 3D LED letters, bright illumination, and a weather-resistant finish to create a premium storefront that attracts customers both day and night. ✨ ACP Elevation Work ✨ LED Acrylic 3D Letter Sign Board ✨ Premium Shop Front Branding ✨ High-Visibility Glow Sign Board ✨ Outdoor Commercial Signage ✨ Professional Installation 📍 Location: Chinnalapatti, Dindigul Near Madurai Road | Kodai Road | Pallapatti Road | Vadipatti Looking for a Sign Board Manufacturer in Madurai or Dindigul? We specialize in: ✔ ACP Sign Boards ✔ LED Letter Boards ✔ Acrylic Sign Boards ✔ Glow Sign Boards ✔ Sweet Shop Signage ✔ Bakery Sign Boards ✔ Hospital Sign Boards ✔ Showroom Branding ✔ Commercial Signage ✔ Outdoor Advertising Boards 📞 Contact us for custom signage design, fabrication, and installation across Tamil Nadu. #RajambigaiSweets #Since1969 #Chinnalapatti #Dindigul #SweetShopSignBoard #LEDAcrylicLetters #ACPCladding #GlowSignBoard #ShopFrontBranding #CommercialSignage #SignBoardManufacturer #MaduraiSignBoard #DindigulBusiness #OutdoorSignage #BusinessBranding Sign Board Manufacturer Madurai,MoreCall now",
+      "updateIndex": 14,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPjfn4QAt9xIK2jQKor73x9-zTK_Clgpj-CJNcY=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's comparison of the completed storefront by day and night"
+    },
+    {
+      "file": "rajambigai-sweets-08.jpg",
+      "title": "Rajambigai Sweets & Snacks",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 🏆 Since 1969 | Rajambigai Sweets & Snacks | Premium ACP Elevation & LED Acrylic Letter Glow Sign Board | Chinnalapatti, Dindigul We're proud to complete a premium ACP front elevation with LED acrylic letter glow signage for Rajambigai Sweets & Snacks, one of Chinnalapatti's well-known traditional sweet shops since 1969. This project features a modern ACP façade, precision-crafted acrylic 3D LED letters, bright illumination, and a weather-resistant finish to create a premium storefront that attracts customers both day and night. ✨ ACP Elevation Work ✨ LED Acrylic 3D Letter Sign Board ✨ Premium Shop Front Branding ✨ High-Visibility Glow Sign Board ✨ Outdoor Commercial Signage ✨ Professional Installation 📍 Location: Chinnalapatti, Dindigul Near Madurai Road | Kodai Road | Pallapatti Road | Vadipatti Looking for a Sign Board Manufacturer in Madurai or Dindigul? We specialize in: ✔ ACP Sign Boards ✔ LED Letter Boards ✔ Acrylic Sign Boards ✔ Glow Sign Boards ✔ Sweet Shop Signage ✔ Bakery Sign Boards ✔ Hospital Sign Boards ✔ Showroom Branding ✔ Commercial Signage ✔ Outdoor Advertising Boards 📞 Contact us for custom signage design, fabrication, and installation across Tamil Nadu. #RajambigaiSweets #Since1969 #Chinnalapatti #Dindigul #SweetShopSignBoard #LEDAcrylicLetters #ACPCladding #GlowSignBoard #ShopFrontBranding #CommercialSignage #SignBoardManufacturer #MaduraiSignBoard #DindigulBusiness #OutdoorSignage #BusinessBranding Sign Board Manufacturer Madurai,MoreCall now",
+      "updateIndex": 14,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipN3U0rJS7x-UadItOtLYOlwc7HaepVHTYaw3Nfa=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Full storefront elevation in daylight"
+    },
+    {
+      "file": "rajambigai-sweets-09.png",
+      "title": "Rajambigai Sweets & Snacks",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 🏆 Since 1969 | Rajambigai Sweets & Snacks | Premium ACP Elevation & LED Acrylic Letter Glow Sign Board | Chinnalapatti, Dindigul We're proud to complete a premium ACP front elevation with LED acrylic letter glow signage for Rajambigai Sweets & Snacks, one of Chinnalapatti's well-known traditional sweet shops since 1969. This project features a modern ACP façade, precision-crafted acrylic 3D LED letters, bright illumination, and a weather-resistant finish to create a premium storefront that attracts customers both day and night. ✨ ACP Elevation Work ✨ LED Acrylic 3D Letter Sign Board ✨ Premium Shop Front Branding ✨ High-Visibility Glow Sign Board ✨ Outdoor Commercial Signage ✨ Professional Installation 📍 Location: Chinnalapatti, Dindigul Near Madurai Road | Kodai Road | Pallapatti Road | Vadipatti Looking for a Sign Board Manufacturer in Madurai or Dindigul? We specialize in: ✔ ACP Sign Boards ✔ LED Letter Boards ✔ Acrylic Sign Boards ✔ Glow Sign Boards ✔ Sweet Shop Signage ✔ Bakery Sign Boards ✔ Hospital Sign Boards ✔ Showroom Branding ✔ Commercial Signage ✔ Outdoor Advertising Boards 📞 Contact us for custom signage design, fabrication, and installation across Tamil Nadu. #RajambigaiSweets #Since1969 #Chinnalapatti #Dindigul #SweetShopSignBoard #LEDAcrylicLetters #ACPCladding #GlowSignBoard #ShopFrontBranding #CommercialSignage #SignBoardManufacturer #MaduraiSignBoard #DindigulBusiness #OutdoorSignage #BusinessBranding Sign Board Manufacturer Madurai,MoreCall now",
+      "updateIndex": 14,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMiVrynalZjLJruXOfU3mDLQIcLR6dpzcrZGl7D=w1400",
+      "width": 1024,
+      "height": 1536,
+      "alt": "Owner's montage of the storefront, lettering and fabrication work"
+    },
+    {
+      "file": "apex-bridge-01.jpg",
+      "title": "Apex Bridge",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 Apex Bridge Finance – Premium Reception Decorative Logo Board Installation | Anna Nagar, KK Nagar, Madurai We're proud to have completed a premium reception decorative logo board for Apex Bridge Finance, designed to create a… MoreCall now",
+      "updateIndex": 15,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOSpY5n2_iZNSqNS3flleFAi4u61eaIWUsyuCVR=w1400",
+      "width": 1400,
+      "height": 1050,
+      "alt": "Decorative logo fitted on a wooden reception wall"
+    },
+    {
+      "file": "apex-bridge-02.jpg",
+      "title": "Apex Bridge",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 Apex Bridge Finance – Premium Reception Decorative Logo Board Installation | Anna Nagar, KK Nagar, Madurai We're proud to have completed a premium reception decorative logo board for Apex Bridge Finance, designed to create a… MoreCall now",
+      "updateIndex": 15,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipM92k1dORfiKmp4Aa5EIqlSUboJydVlEwlLWPM_=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's reception and workshop photographs"
+    },
+    {
+      "file": "apex-bridge-03.jpg",
+      "title": "Apex Bridge",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 19, 2026 Apex Bridge Finance – Premium Reception Decorative Logo Board Installation | Anna Nagar, KK Nagar, Madurai We're proud to have completed a premium reception decorative logo board for Apex Bridge Finance, designed to create a… MoreCall now",
+      "updateIndex": 15,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMEjcOuK81AjF4c96YMc5cXjNqAaS_prQoAImU4=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Apex Bridge Capital Limited logo panel during fabrication"
+    },
+    {
+      "file": "blue-chip-hr-01.jpg",
+      "title": "Blue Chip HR Consultant",
+      "displayed": true,
+      "categories": [
+        "flex"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 13, 2026 Blue Chip HR Consultant – Premium Flex Sign Board Installation | Near St. Mary's School, Thirumalai Nayakkar Mahal, Madurai Successfully completed a high-quality custom flex sign board for Blue Chip HR Consultant, designed to… More",
+      "updateIndex": 16,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMDp_WavNd9-_kM-LnN-sfrgrNTGfpOqFUOU6Lx=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Printed flex business sign photographed in the workshop before fitting"
+    },
+    {
+      "file": "santhana-mariamman-01.jpg",
+      "title": "Santhana Mariamman Temple",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 13, 2026 🛕 Santhana Mariamman Temple | Premium UV Backlight Glow Temple Name Board Installation | Ottanai, Varusanadu, Theni We are honored to have completed a premium UV Backlight Glow Temple Name Board for Santhana Mariamman Temple. This custom-designed illuminated temple signage combines high-resolution UV printing, energy-efficient LED backlighting, and a heavy-duty weather-resistant structure to ensure exceptional visibility during both daytime and nighttime. ✨ Project Highlights ✅ Premium UV Backlight Glow Technology ✅ High-Brightness LED Illumination ✅ Long-Lasting Outdoor Performance ✅ Weather & UV Resistant Materials ✅ Premium Temple Entrance Branding ✅ Crystal-Clear Visibility from Long Distance ✅ Professional Design & Precision Installation A well-designed temple name board not only improves visibility but also creates a welcoming first impression for devotees and visitors. Every project is manufactured with premium materials to ensure durability, elegance, and long service life. 📍 Project Location: Ottanai, Varusanadu, Theni District, Tamil Nadu #TempleSignBoardTamilNadu #TempleSignBoardTheni #TempleBrandingSolutions #GlowSignBoard #LEDSignBoard #OutdoorAdvertising #AcrylicSignBoard #ACPCladding #SignageSolutions #BusinessSignBoard #BrandingSolutions #PremiumSignage #UVPrinting #OutdoorBranding #WayfindingSignagesMore",
+      "updateIndex": 17,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNv1DdKx_lszd9_CUokCT_UWeiu2cqMPHYcHzT0=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's montage of the temple name board"
+    },
+    {
+      "file": "santhana-mariamman-02.jpg",
+      "title": "Santhana Mariamman Temple",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 13, 2026 🛕 Santhana Mariamman Temple | Premium UV Backlight Glow Temple Name Board Installation | Ottanai, Varusanadu, Theni We are honored to have completed a premium UV Backlight Glow Temple Name Board for Santhana Mariamman Temple. This custom-designed illuminated temple signage combines high-resolution UV printing, energy-efficient LED backlighting, and a heavy-duty weather-resistant structure to ensure exceptional visibility during both daytime and nighttime. ✨ Project Highlights ✅ Premium UV Backlight Glow Technology ✅ High-Brightness LED Illumination ✅ Long-Lasting Outdoor Performance ✅ Weather & UV Resistant Materials ✅ Premium Temple Entrance Branding ✅ Crystal-Clear Visibility from Long Distance ✅ Professional Design & Precision Installation A well-designed temple name board not only improves visibility but also creates a welcoming first impression for devotees and visitors. Every project is manufactured with premium materials to ensure durability, elegance, and long service life. 📍 Project Location: Ottanai, Varusanadu, Theni District, Tamil Nadu #TempleSignBoardTamilNadu #TempleSignBoardTheni #TempleBrandingSolutions #GlowSignBoard #LEDSignBoard #OutdoorAdvertising #AcrylicSignBoard #ACPCladding #SignageSolutions #BusinessSignBoard #BrandingSolutions #PremiumSignage #UVPrinting #OutdoorBranding #WayfindingSignagesMore",
+      "updateIndex": 17,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNDCCxkEk94qU5UynThI07yzMUDfPMOT3nHgLfI=w1400",
+      "width": 1400,
+      "height": 627,
+      "alt": "Tamil temple name board illuminated before fitting"
+    },
+    {
+      "file": "santhana-mariamman-03.jpg",
+      "title": "Santhana Mariamman Temple",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 13, 2026 🛕 Santhana Mariamman Temple | Premium UV Backlight Glow Temple Name Board Installation | Ottanai, Varusanadu, Theni We are honored to have completed a premium UV Backlight Glow Temple Name Board for Santhana Mariamman Temple. This custom-designed illuminated temple signage combines high-resolution UV printing, energy-efficient LED backlighting, and a heavy-duty weather-resistant structure to ensure exceptional visibility during both daytime and nighttime. ✨ Project Highlights ✅ Premium UV Backlight Glow Technology ✅ High-Brightness LED Illumination ✅ Long-Lasting Outdoor Performance ✅ Weather & UV Resistant Materials ✅ Premium Temple Entrance Branding ✅ Crystal-Clear Visibility from Long Distance ✅ Professional Design & Precision Installation A well-designed temple name board not only improves visibility but also creates a welcoming first impression for devotees and visitors. Every project is manufactured with premium materials to ensure durability, elegance, and long service life. 📍 Project Location: Ottanai, Varusanadu, Theni District, Tamil Nadu #TempleSignBoardTamilNadu #TempleSignBoardTheni #TempleBrandingSolutions #GlowSignBoard #LEDSignBoard #OutdoorAdvertising #AcrylicSignBoard #ACPCladding #SignageSolutions #BusinessSignBoard #BrandingSolutions #PremiumSignage #UVPrinting #OutdoorBranding #WayfindingSignagesMore",
+      "updateIndex": 17,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNkPjMKUtb0GvySPmJb9eUx_jSe3RPkS8oloy5E=w1400",
+      "width": 1400,
+      "height": 634,
+      "alt": "Installed temple signage at an evening gathering"
+    },
+    {
+      "file": "maansa-studio-01.jpg",
+      "title": "Maansa Hair & Makeup Studio",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 1, 2026 Maansa Hair & Makeup Studio – Elevation Cover-Up Signage & Lift Floor Indication Signage | Kalavasal, Bypass Road, Madurai Successfully completed a premium elevation cover-up signage and lift floor indication signage for… More",
+      "updateIndex": 18,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOsAll2Ph6Ec1ScLprD5NO796nhPkL6eMcehtFN=w1400",
+      "width": 899,
+      "height": 1599,
+      "alt": "Exterior floor-direction sign beside the studio entrance"
+    },
+    {
+      "file": "maansa-studio-02.jpg",
+      "title": "Maansa Hair & Makeup Studio",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 1, 2026 Maansa Hair & Makeup Studio – Elevation Cover-Up Signage & Lift Floor Indication Signage | Kalavasal, Bypass Road, Madurai Successfully completed a premium elevation cover-up signage and lift floor indication signage for… More",
+      "updateIndex": 18,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPhTwWlC-O6cBYb6Ivuvu0Crimnq9fhWme5NW-i=w1400",
+      "width": 899,
+      "height": 1599,
+      "alt": "Printed studio door graphic before fitting"
+    },
+    {
+      "file": "maansa-studio-03.jpg",
+      "title": "Maansa Hair & Makeup Studio",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 1, 2026 Maansa Hair & Makeup Studio – Elevation Cover-Up Signage & Lift Floor Indication Signage | Kalavasal, Bypass Road, Madurai Successfully completed a premium elevation cover-up signage and lift floor indication signage for… More",
+      "updateIndex": 18,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNJPLT9L3eEh_H7_6og4SrbZU-peB45j3lzhnb8=w1400",
+      "width": 899,
+      "height": 1599,
+      "alt": "Studio branding fitted on the entrance door"
+    },
+    {
+      "file": "maansa-studio-04.jpg",
+      "title": "Maansa Hair & Makeup Studio",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 1, 2026 Maansa Hair & Makeup Studio – Elevation Cover-Up Signage & Lift Floor Indication Signage | Kalavasal, Bypass Road, Madurai Successfully completed a premium elevation cover-up signage and lift floor indication signage for… More",
+      "updateIndex": 18,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipN4TGU0vCC7N1P9XiemMAjyDOqswQ0I5Ylbqlhu=w1400",
+      "width": 899,
+      "height": 1599,
+      "alt": "Studio graphic material being printed in the workshop"
+    },
+    {
+      "file": "maansa-studio-05.jpg",
+      "title": "Maansa Hair & Makeup Studio",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 1, 2026 Maansa Hair & Makeup Studio – Elevation Cover-Up Signage & Lift Floor Indication Signage | Kalavasal, Bypass Road, Madurai Successfully completed a premium elevation cover-up signage and lift floor indication signage for… More",
+      "updateIndex": 18,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNnA9yVJf5opc3taMvC6M0egJI9ArY5qJrmNZSt=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Tall studio elevation signage beside the entrance"
+    },
+    {
+      "file": "maansa-studio-06.jpg",
+      "title": "Maansa Hair & Makeup Studio",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJul 1, 2026 Maansa Hair & Makeup Studio – Elevation Cover-Up Signage & Lift Floor Indication Signage | Kalavasal, Bypass Road, Madurai Successfully completed a premium elevation cover-up signage and lift floor indication signage for… More",
+      "updateIndex": 18,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNOAhOjYcDlq7sv0P_Osyr3lENmYWYv9JLRinkj=w1400",
+      "width": 1214,
+      "height": 1600,
+      "alt": "Owner's before-and-after photographs of the elevation work"
+    },
+    {
+      "file": "chef-brothers-01.jpg",
+      "title": "Chef Brothers Kiosk",
+      "displayed": true,
+      "categories": [
+        "frame"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 20, 2026 Chef Brothers Kiosk – LED Dish Menu Board Installation | Teppakulam Food Street, Vandiyur, Madurai Successfully completed a Premium LED Dish Menu Board for Chef Brothers Kiosk, designed to attract customers and showcase… More",
+      "updateIndex": 19,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNKRgOnmlcpIbIPRS4Ih8Qq7x8D4R_vgR_BTVS1=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's montage of menu artwork and the fitted kiosk signage"
+    },
+    {
+      "file": "chef-brothers-02.jpg",
+      "title": "Chef Brothers Kiosk",
+      "displayed": true,
+      "categories": [
+        "frame"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 20, 2026 Chef Brothers Kiosk – LED Dish Menu Board Installation | Teppakulam Food Street, Vandiyur, Madurai Successfully completed a Premium LED Dish Menu Board for Chef Brothers Kiosk, designed to attract customers and showcase… More",
+      "updateIndex": 19,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNYyRxFMr19wGCTZJcyj942-98WWZ8wuYWtzuxz=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Completed kiosk and illuminated food menu at night"
+    },
+    {
+      "file": "chef-brothers-03.jpg",
+      "title": "Chef Brothers Kiosk",
+      "displayed": true,
+      "categories": [
+        "frame"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 20, 2026 Chef Brothers Kiosk – LED Dish Menu Board Installation | Teppakulam Food Street, Vandiyur, Madurai Successfully completed a Premium LED Dish Menu Board for Chef Brothers Kiosk, designed to attract customers and showcase… More",
+      "updateIndex": 19,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOHvMjb_1ESPjfuLSQ9bPPfJKvaVR10VWRhGcyL=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Fabricated food-menu panel photographed before fitting"
+    },
+    {
+      "file": "chef-brothers-04.jpg",
+      "title": "Chef Brothers Kiosk",
+      "displayed": false,
+      "categories": [
+        "frame"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 20, 2026 Chef Brothers Kiosk – LED Dish Menu Board Installation | Teppakulam Food Street, Vandiyur, Madurai Successfully completed a Premium LED Dish Menu Board for Chef Brothers Kiosk, designed to attract customers and showcase… More",
+      "updateIndex": 19,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOSZNgaI5XHQ8z8Pz0nJM-IvZ_ODrUO-SdI1kle=w1400",
+      "width": 1351,
+      "height": 901,
+      "mediaType": "Owner's flat artwork, not a photograph; excluded from the real-work showcase."
+    },
+    {
+      "file": "chef-brothers-05.jpg",
+      "title": "Chef Brothers Kiosk",
+      "displayed": true,
+      "categories": [
+        "frame"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 20, 2026 Chef Brothers Kiosk – LED Dish Menu Board Installation | Teppakulam Food Street, Vandiyur, Madurai Successfully completed a Premium LED Dish Menu Board for Chef Brothers Kiosk, designed to attract customers and showcase… More",
+      "updateIndex": 19,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPt82_jmd1ZoqXM7-kZsKJhzxFXKrSWBRwM46us=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Illuminated menu panel fitted at the kiosk"
+    },
+    {
+      "file": "keep-fit-hospital-01.jpg",
+      "title": "Keep Fit Naturopathy Hospital",
+      "displayed": true,
+      "categories": [
+        "reflective"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 19, 2026 Keep Fit Naturopathy Hospital (Dr. Yoghameenakshi Swaminathan) – Premium Reflective Signage | Iyer Bungalow, K. Pudur, Reserve Line, Madurai Proudly completed a Premium Reflective Signage Installation for Keep Fit Naturopathy Hospital, led by Dr. Yoghameenakshi Swaminathan. ✨ High-Intensity Reflective Technology ✨ Superior Day & Night Visibility ✨ Professional Healthcare Branding ✨ Weather-Resistant Outdoor Signage ✨ Long-Lasting Premium Finish Designed to provide maximum visibility and easy identification, this reflective signage enhances the hospital's professional image while helping patients locate the facility with confidence, even during low-light conditions. 🌿 Specialized Naturopathy & Wellness Healthcare Branding 🌿 Premium Outdoor Medical Signage 🌿 Clear Directional & Identification Solutions 📍 Project Location: Iyer Bungalow, K. Pudur, Reserve Line, Madurai Our expertise includes: ✔ Reflective Sign Boards ✔ Hospital & Clinic Signage ✔ LED Glow Sign Boards ✔ ACP Elevation Work ✔ Acrylic Letter Signage ✔ Healthcare Branding Solutions 📞 Contact us for premium hospital signage and commercial branding solutions across Madurai. 🔍 High-Ranking SEO Hashtags #KeepFitNaturopathyHospital #DrYoghameenakshiSwaminathan #ReflectiveSignage #HospitalSignBoardMadurai #NaturopathyHospital #HealthcareBranding #MedicalSignage #ClinicSignBoard #KPudurMadurai #ReserveLineMadurai #CommercialSignageMadurai #OutdoorSignBoardMore",
+      "updateIndex": 20,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPvfg8gaMVJuIElPtBdVKEdiMSSYLQ-hfMnBYrk=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's photographs of the fabricated footwear-direction signs"
+    },
+    {
+      "file": "keep-fit-hospital-02.jpg",
+      "title": "Keep Fit Naturopathy Hospital",
+      "displayed": true,
+      "categories": [
+        "reflective"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 19, 2026 Keep Fit Naturopathy Hospital (Dr. Yoghameenakshi Swaminathan) – Premium Reflective Signage | Iyer Bungalow, K. Pudur, Reserve Line, Madurai Proudly completed a Premium Reflective Signage Installation for Keep Fit Naturopathy Hospital, led by Dr. Yoghameenakshi Swaminathan. ✨ High-Intensity Reflective Technology ✨ Superior Day & Night Visibility ✨ Professional Healthcare Branding ✨ Weather-Resistant Outdoor Signage ✨ Long-Lasting Premium Finish Designed to provide maximum visibility and easy identification, this reflective signage enhances the hospital's professional image while helping patients locate the facility with confidence, even during low-light conditions. 🌿 Specialized Naturopathy & Wellness Healthcare Branding 🌿 Premium Outdoor Medical Signage 🌿 Clear Directional & Identification Solutions 📍 Project Location: Iyer Bungalow, K. Pudur, Reserve Line, Madurai Our expertise includes: ✔ Reflective Sign Boards ✔ Hospital & Clinic Signage ✔ LED Glow Sign Boards ✔ ACP Elevation Work ✔ Acrylic Letter Signage ✔ Healthcare Branding Solutions 📞 Contact us for premium hospital signage and commercial branding solutions across Madurai. 🔍 High-Ranking SEO Hashtags #KeepFitNaturopathyHospital #DrYoghameenakshiSwaminathan #ReflectiveSignage #HospitalSignBoardMadurai #NaturopathyHospital #HealthcareBranding #MedicalSignage #ClinicSignBoard #KPudurMadurai #ReserveLineMadurai #CommercialSignageMadurai #OutdoorSignBoardMore",
+      "updateIndex": 20,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOpp4bwa5vG4ZpxEqKUIqXBJnCc0RvuybbV9vLc=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Hospital identification sign fitted beside the street"
+    },
+    {
+      "file": "keep-fit-hospital-03.jpg",
+      "title": "Keep Fit Naturopathy Hospital",
+      "displayed": true,
+      "categories": [
+        "reflective"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 19, 2026 Keep Fit Naturopathy Hospital (Dr. Yoghameenakshi Swaminathan) – Premium Reflective Signage | Iyer Bungalow, K. Pudur, Reserve Line, Madurai Proudly completed a Premium Reflective Signage Installation for Keep Fit Naturopathy Hospital, led by Dr. Yoghameenakshi Swaminathan. ✨ High-Intensity Reflective Technology ✨ Superior Day & Night Visibility ✨ Professional Healthcare Branding ✨ Weather-Resistant Outdoor Signage ✨ Long-Lasting Premium Finish Designed to provide maximum visibility and easy identification, this reflective signage enhances the hospital's professional image while helping patients locate the facility with confidence, even during low-light conditions. 🌿 Specialized Naturopathy & Wellness Healthcare Branding 🌿 Premium Outdoor Medical Signage 🌿 Clear Directional & Identification Solutions 📍 Project Location: Iyer Bungalow, K. Pudur, Reserve Line, Madurai Our expertise includes: ✔ Reflective Sign Boards ✔ Hospital & Clinic Signage ✔ LED Glow Sign Boards ✔ ACP Elevation Work ✔ Acrylic Letter Signage ✔ Healthcare Branding Solutions 📞 Contact us for premium hospital signage and commercial branding solutions across Madurai. 🔍 High-Ranking SEO Hashtags #KeepFitNaturopathyHospital #DrYoghameenakshiSwaminathan #ReflectiveSignage #HospitalSignBoardMadurai #NaturopathyHospital #HealthcareBranding #MedicalSignage #ClinicSignBoard #KPudurMadurai #ReserveLineMadurai #CommercialSignageMadurai #OutdoorSignBoardMore",
+      "updateIndex": 20,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOOCgNkD7mnb9HdrJvhrMvClJqNruxgBQugLTKB=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Reflective hospital sign photographed during fabrication"
+    },
+    {
+      "file": "keep-fit-hospital-04.jpg",
+      "title": "Keep Fit Naturopathy Hospital",
+      "displayed": false,
+      "categories": [
+        "reflective"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 19, 2026 Keep Fit Naturopathy Hospital (Dr. Yoghameenakshi Swaminathan) – Premium Reflective Signage | Iyer Bungalow, K. Pudur, Reserve Line, Madurai Proudly completed a Premium Reflective Signage Installation for Keep Fit Naturopathy Hospital, led by Dr. Yoghameenakshi Swaminathan. ✨ High-Intensity Reflective Technology ✨ Superior Day & Night Visibility ✨ Professional Healthcare Branding ✨ Weather-Resistant Outdoor Signage ✨ Long-Lasting Premium Finish Designed to provide maximum visibility and easy identification, this reflective signage enhances the hospital's professional image while helping patients locate the facility with confidence, even during low-light conditions. 🌿 Specialized Naturopathy & Wellness Healthcare Branding 🌿 Premium Outdoor Medical Signage 🌿 Clear Directional & Identification Solutions 📍 Project Location: Iyer Bungalow, K. Pudur, Reserve Line, Madurai Our expertise includes: ✔ Reflective Sign Boards ✔ Hospital & Clinic Signage ✔ LED Glow Sign Boards ✔ ACP Elevation Work ✔ Acrylic Letter Signage ✔ Healthcare Branding Solutions 📞 Contact us for premium hospital signage and commercial branding solutions across Madurai. 🔍 High-Ranking SEO Hashtags #KeepFitNaturopathyHospital #DrYoghameenakshiSwaminathan #ReflectiveSignage #HospitalSignBoardMadurai #NaturopathyHospital #HealthcareBranding #MedicalSignage #ClinicSignBoard #KPudurMadurai #ReserveLineMadurai #CommercialSignageMadurai #OutdoorSignBoardMore",
+      "updateIndex": 20,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPCbxmpMlw91iMla0MwYb1K-elWDii3XBIrsd1u=w1400",
+      "width": 1351,
+      "height": 1351,
+      "mediaType": "Owner's flat artwork, not a photograph; excluded from the real-work showcase."
+    },
+    {
+      "file": "keep-fit-hospital-05.jpg",
+      "title": "Keep Fit Naturopathy Hospital",
+      "displayed": true,
+      "categories": [
+        "reflective"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 19, 2026 Keep Fit Naturopathy Hospital (Dr. Yoghameenakshi Swaminathan) – Premium Reflective Signage | Iyer Bungalow, K. Pudur, Reserve Line, Madurai Proudly completed a Premium Reflective Signage Installation for Keep Fit Naturopathy Hospital, led by Dr. Yoghameenakshi Swaminathan. ✨ High-Intensity Reflective Technology ✨ Superior Day & Night Visibility ✨ Professional Healthcare Branding ✨ Weather-Resistant Outdoor Signage ✨ Long-Lasting Premium Finish Designed to provide maximum visibility and easy identification, this reflective signage enhances the hospital's professional image while helping patients locate the facility with confidence, even during low-light conditions. 🌿 Specialized Naturopathy & Wellness Healthcare Branding 🌿 Premium Outdoor Medical Signage 🌿 Clear Directional & Identification Solutions 📍 Project Location: Iyer Bungalow, K. Pudur, Reserve Line, Madurai Our expertise includes: ✔ Reflective Sign Boards ✔ Hospital & Clinic Signage ✔ LED Glow Sign Boards ✔ ACP Elevation Work ✔ Acrylic Letter Signage ✔ Healthcare Branding Solutions 📞 Contact us for premium hospital signage and commercial branding solutions across Madurai. 🔍 High-Ranking SEO Hashtags #KeepFitNaturopathyHospital #DrYoghameenakshiSwaminathan #ReflectiveSignage #HospitalSignBoardMadurai #NaturopathyHospital #HealthcareBranding #MedicalSignage #ClinicSignBoard #KPudurMadurai #ReserveLineMadurai #CommercialSignageMadurai #OutdoorSignBoardMore",
+      "updateIndex": 20,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNfTYPSk8Ucghhw6MHIbt6RXJLqHHryEs-o8FoT=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Installed reflective hospital sign in daylight"
+    },
+    {
+      "file": "sri-chakra-clinic-01.jpg",
+      "title": "Sri Chakra Clinic",
+      "displayed": true,
+      "categories": [
+        "reflective"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 18, 2026 Sri Chakra Clinic (Skin & Bone Speciality) – Special Reflective Signage | Iyer Bungalow, K. Pudur, Reserve Line, Madurai Proudly completed a Special High-Visibility Reflective Signage for Sri Chakra Clinic, designed to provide excellent visibility during both daytime and nighttime. ✨ Premium Reflective Signage ✨ High Visibility Day & Night ✨ Weather-Resistant Materials ✨ Professional Healthcare Branding ✨ Long-Lasting Outdoor Performance Designed specifically for a Skin & Bone Speciality Clinic, this signage ensures patients can easily identify the clinic location while enhancing the clinic's professional image and brand presence. 🏥 Specialized Healthcare Signage Solutions 🏥 Clear Directional & Identification Signage 🏥 Durable Outdoor Medical Branding 📍 Project Location: Iyer Bungalow, K. Pudur, Reserve Line, Madurai We specialize in: ✔ Reflective Sign Boards ✔ Hospital & Clinic Signage ✔ LED Glow Sign Boards ✔ ACP Elevation Work ✔ Acrylic Letter Sign Boards ✔ Outdoor Commercial Signage 📞 Contact us for premium clinic and hospital signage solutions in Madurai. 🔍 SEO Hashtags #SriChakraClinic #ReflectiveSignage #ClinicSignBoardMadurai #MedicalSignage #HealthcareBranding #HospitalSignBoard #ReflectiveBoard #KPudurMadurai #ReserveLineMadurai #CommercialSignageMaduraiMore",
+      "updateIndex": 21,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPiN9sbpmr6Jv5K2PBUwouMwE3sAoR_Quxi4r4f=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Printed reflective clinic sign before fitting"
+    },
+    {
+      "file": "sri-chakra-clinic-02.jpg",
+      "title": "Sri Chakra Clinic",
+      "displayed": true,
+      "categories": [
+        "reflective"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 18, 2026 Sri Chakra Clinic (Skin & Bone Speciality) – Special Reflective Signage | Iyer Bungalow, K. Pudur, Reserve Line, Madurai Proudly completed a Special High-Visibility Reflective Signage for Sri Chakra Clinic, designed to provide excellent visibility during both daytime and nighttime. ✨ Premium Reflective Signage ✨ High Visibility Day & Night ✨ Weather-Resistant Materials ✨ Professional Healthcare Branding ✨ Long-Lasting Outdoor Performance Designed specifically for a Skin & Bone Speciality Clinic, this signage ensures patients can easily identify the clinic location while enhancing the clinic's professional image and brand presence. 🏥 Specialized Healthcare Signage Solutions 🏥 Clear Directional & Identification Signage 🏥 Durable Outdoor Medical Branding 📍 Project Location: Iyer Bungalow, K. Pudur, Reserve Line, Madurai We specialize in: ✔ Reflective Sign Boards ✔ Hospital & Clinic Signage ✔ LED Glow Sign Boards ✔ ACP Elevation Work ✔ Acrylic Letter Sign Boards ✔ Outdoor Commercial Signage 📞 Contact us for premium clinic and hospital signage solutions in Madurai. 🔍 SEO Hashtags #SriChakraClinic #ReflectiveSignage #ClinicSignBoardMadurai #MedicalSignage #HealthcareBranding #HospitalSignBoard #ReflectiveBoard #KPudurMadurai #ReserveLineMadurai #CommercialSignageMaduraiMore",
+      "updateIndex": 21,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPgS9D272xrROfDs8UJ3miD7EVhiESTMc3lJlNe=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Clinic identification sign installed beside the street at night"
+    },
+    {
+      "file": "sri-chakra-clinic-03.jpg",
+      "title": "Sri Chakra Clinic",
+      "displayed": true,
+      "categories": [
+        "reflective"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 18, 2026 Sri Chakra Clinic (Skin & Bone Speciality) – Special Reflective Signage | Iyer Bungalow, K. Pudur, Reserve Line, Madurai Proudly completed a Special High-Visibility Reflective Signage for Sri Chakra Clinic, designed to provide excellent visibility during both daytime and nighttime. ✨ Premium Reflective Signage ✨ High Visibility Day & Night ✨ Weather-Resistant Materials ✨ Professional Healthcare Branding ✨ Long-Lasting Outdoor Performance Designed specifically for a Skin & Bone Speciality Clinic, this signage ensures patients can easily identify the clinic location while enhancing the clinic's professional image and brand presence. 🏥 Specialized Healthcare Signage Solutions 🏥 Clear Directional & Identification Signage 🏥 Durable Outdoor Medical Branding 📍 Project Location: Iyer Bungalow, K. Pudur, Reserve Line, Madurai We specialize in: ✔ Reflective Sign Boards ✔ Hospital & Clinic Signage ✔ LED Glow Sign Boards ✔ ACP Elevation Work ✔ Acrylic Letter Sign Boards ✔ Outdoor Commercial Signage 📞 Contact us for premium clinic and hospital signage solutions in Madurai. 🔍 SEO Hashtags #SriChakraClinic #ReflectiveSignage #ClinicSignBoardMadurai #MedicalSignage #HealthcareBranding #HospitalSignBoard #ReflectiveBoard #KPudurMadurai #ReserveLineMadurai #CommercialSignageMaduraiMore",
+      "updateIndex": 21,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPpoY_WmMeDwTV_vlNGqlbnBwx4FEJ6qd71CGuh=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Wider street view of the installed clinic signage"
+    },
+    {
+      "file": "sri-chakra-clinic-04.jpg",
+      "title": "Sri Chakra Clinic",
+      "displayed": false,
+      "categories": [
+        "reflective"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 18, 2026 Sri Chakra Clinic (Skin & Bone Speciality) – Special Reflective Signage | Iyer Bungalow, K. Pudur, Reserve Line, Madurai Proudly completed a Special High-Visibility Reflective Signage for Sri Chakra Clinic, designed to provide excellent visibility during both daytime and nighttime. ✨ Premium Reflective Signage ✨ High Visibility Day & Night ✨ Weather-Resistant Materials ✨ Professional Healthcare Branding ✨ Long-Lasting Outdoor Performance Designed specifically for a Skin & Bone Speciality Clinic, this signage ensures patients can easily identify the clinic location while enhancing the clinic's professional image and brand presence. 🏥 Specialized Healthcare Signage Solutions 🏥 Clear Directional & Identification Signage 🏥 Durable Outdoor Medical Branding 📍 Project Location: Iyer Bungalow, K. Pudur, Reserve Line, Madurai We specialize in: ✔ Reflective Sign Boards ✔ Hospital & Clinic Signage ✔ LED Glow Sign Boards ✔ ACP Elevation Work ✔ Acrylic Letter Sign Boards ✔ Outdoor Commercial Signage 📞 Contact us for premium clinic and hospital signage solutions in Madurai. 🔍 SEO Hashtags #SriChakraClinic #ReflectiveSignage #ClinicSignBoardMadurai #MedicalSignage #HealthcareBranding #HospitalSignBoard #ReflectiveBoard #KPudurMadurai #ReserveLineMadurai #CommercialSignageMaduraiMore",
+      "updateIndex": 21,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMlC5_F1UM-ycdRmtItpnI18CXBviRC2ZuDIU3p=w1400",
+      "width": 1350,
+      "height": 900,
+      "mediaType": "Owner's flat artwork, not a photograph; excluded from the real-work showcase."
+    },
+    {
+      "file": "sri-chakra-clinic-05.jpg",
+      "title": "Sri Chakra Clinic",
+      "displayed": true,
+      "categories": [
+        "reflective"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 18, 2026 Sri Chakra Clinic (Skin & Bone Speciality) – Special Reflective Signage | Iyer Bungalow, K. Pudur, Reserve Line, Madurai Proudly completed a Special High-Visibility Reflective Signage for Sri Chakra Clinic, designed to provide excellent visibility during both daytime and nighttime. ✨ Premium Reflective Signage ✨ High Visibility Day & Night ✨ Weather-Resistant Materials ✨ Professional Healthcare Branding ✨ Long-Lasting Outdoor Performance Designed specifically for a Skin & Bone Speciality Clinic, this signage ensures patients can easily identify the clinic location while enhancing the clinic's professional image and brand presence. 🏥 Specialized Healthcare Signage Solutions 🏥 Clear Directional & Identification Signage 🏥 Durable Outdoor Medical Branding 📍 Project Location: Iyer Bungalow, K. Pudur, Reserve Line, Madurai We specialize in: ✔ Reflective Sign Boards ✔ Hospital & Clinic Signage ✔ LED Glow Sign Boards ✔ ACP Elevation Work ✔ Acrylic Letter Sign Boards ✔ Outdoor Commercial Signage 📞 Contact us for premium clinic and hospital signage solutions in Madurai. 🔍 SEO Hashtags #SriChakraClinic #ReflectiveSignage #ClinicSignBoardMadurai #MedicalSignage #HealthcareBranding #HospitalSignBoard #ReflectiveBoard #KPudurMadurai #ReserveLineMadurai #CommercialSignageMaduraiMore",
+      "updateIndex": 21,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPdAzs-DKNXiwO-IeuVJbXXQhnWgFCcieghrFYF=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's montage of fabrication and installed clinic signage"
+    },
+    {
+      "file": "ls-dental-clinic-01.jpg",
+      "title": "LS Dental Clinic",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 10, 2026 LS Dental Clinic – Premium Double-Sided UV Backlight Sign Board | Kadachanenthal (Surya Nagar, Umachikulam), Madurai Proudly completed a Premium Double-Sided UV Backlight Sign Board for LS Dental Clinic, designe… More",
+      "updateIndex": 22,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNfsLC_4L25upPjcDOWpHb3B_rj58UMYmthX4wO=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's montage of the dental clinic and projecting signage"
+    },
+    {
+      "file": "ls-dental-clinic-02.jpg",
+      "title": "LS Dental Clinic",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 10, 2026 LS Dental Clinic – Premium Double-Sided UV Backlight Sign Board | Kadachanenthal (Surya Nagar, Umachikulam), Madurai Proudly completed a Premium Double-Sided UV Backlight Sign Board for LS Dental Clinic, designe… More",
+      "updateIndex": 22,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipM_JAGBR-vulF0bshGk-hLI4tr4GfkTKwM5jcBd=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Illuminated double-sided dental sign beside the clinic"
+    },
+    {
+      "file": "ls-dental-clinic-03.jpg",
+      "title": "LS Dental Clinic",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingJun 10, 2026 LS Dental Clinic – Premium Double-Sided UV Backlight Sign Board | Kadachanenthal (Surya Nagar, Umachikulam), Madurai Proudly completed a Premium Double-Sided UV Backlight Sign Board for LS Dental Clinic, designe… More",
+      "updateIndex": 22,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMF21J6o83qHhvh1W0OHwEw6FuLcRPXKKSZ-XqM=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Angled view of the fitted illuminated dental sign"
+    },
+    {
+      "file": "factory-sections-01.jpg",
+      "title": "Factory department & section boards",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 26, 2026 Factory Department & Section Sign Boards – Koodal Nagar / Koodalpudur, Madurai Successfully designed and installed factory department and section sign boards for improved workplace organization, safety, and operational efficiency in Koodal Nagar / Koodalpudur, Madurai. ✨ Industrial Department Sign Boards ✨ Factory Section Identification Boards ✨ High-Visibility Workplace Signage ✨ Durable & Professional Finish These industrial signage solutions help employees and visitors easily identify departments, production areas, and operational sections, ensuring a more organized and professional factory environment. Designed using high-quality materials with clear typography and long-lasting durability, suitable for factories, warehouses, industries, and manufacturing units. 📍 Location: Koodal Nagar / Koodalpudur, Madurai We specialize in: ✔ Factory Sign Boards ✔ Industrial Safety Signage ✔ Department & Section Boards ✔ ACP & LED Signage ✔ Commercial & Industrial Branding Solutions 📞 Contact us for customized industrial signage and factory branding solutions in Madurai. #FactorySignBoard #IndustrialSignage #DepartmentBoard #SectionBoard #FactoryBranding #IndustrialSafetySigns #MaduraiSignage #KoodalNagar #ManufacturingSignageMore",
+      "updateIndex": 23,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOoRB2xW0LI_vm99qCuYy_60OFMINgGY9QbM3xQ=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Finished-goods department sign above a factory doorway"
+    },
+    {
+      "file": "factory-sections-02.jpg",
+      "title": "Factory department & section boards",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 26, 2026 Factory Department & Section Sign Boards – Koodal Nagar / Koodalpudur, Madurai Successfully designed and installed factory department and section sign boards for improved workplace organization, safety, and operational efficiency in Koodal Nagar / Koodalpudur, Madurai. ✨ Industrial Department Sign Boards ✨ Factory Section Identification Boards ✨ High-Visibility Workplace Signage ✨ Durable & Professional Finish These industrial signage solutions help employees and visitors easily identify departments, production areas, and operational sections, ensuring a more organized and professional factory environment. Designed using high-quality materials with clear typography and long-lasting durability, suitable for factories, warehouses, industries, and manufacturing units. 📍 Location: Koodal Nagar / Koodalpudur, Madurai We specialize in: ✔ Factory Sign Boards ✔ Industrial Safety Signage ✔ Department & Section Boards ✔ ACP & LED Signage ✔ Commercial & Industrial Branding Solutions 📞 Contact us for customized industrial signage and factory branding solutions in Madurai. #FactorySignBoard #IndustrialSignage #DepartmentBoard #SectionBoard #FactoryBranding #IndustrialSafetySigns #MaduraiSignage #KoodalNagar #ManufacturingSignageMore",
+      "updateIndex": 23,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOfz4hBQzfa_Vb_Zu_gYVxjwMw9F3-31u8jd0XR=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Accounts-department identification sign"
+    },
+    {
+      "file": "factory-sections-03.jpg",
+      "title": "Factory department & section boards",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 26, 2026 Factory Department & Section Sign Boards – Koodal Nagar / Koodalpudur, Madurai Successfully designed and installed factory department and section sign boards for improved workplace organization, safety, and operational efficiency in Koodal Nagar / Koodalpudur, Madurai. ✨ Industrial Department Sign Boards ✨ Factory Section Identification Boards ✨ High-Visibility Workplace Signage ✨ Durable & Professional Finish These industrial signage solutions help employees and visitors easily identify departments, production areas, and operational sections, ensuring a more organized and professional factory environment. Designed using high-quality materials with clear typography and long-lasting durability, suitable for factories, warehouses, industries, and manufacturing units. 📍 Location: Koodal Nagar / Koodalpudur, Madurai We specialize in: ✔ Factory Sign Boards ✔ Industrial Safety Signage ✔ Department & Section Boards ✔ ACP & LED Signage ✔ Commercial & Industrial Branding Solutions 📞 Contact us for customized industrial signage and factory branding solutions in Madurai. #FactorySignBoard #IndustrialSignage #DepartmentBoard #SectionBoard #FactoryBranding #IndustrialSafetySigns #MaduraiSignage #KoodalNagar #ManufacturingSignageMore",
+      "updateIndex": 23,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMgYLQDYQDC_V-QHsZmairJ_VQ-juxgOOmCv10r=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Production-area sign above a factory entrance"
+    },
+    {
+      "file": "factory-sections-04.jpg",
+      "title": "Factory department & section boards",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 26, 2026 Factory Department & Section Sign Boards – Koodal Nagar / Koodalpudur, Madurai Successfully designed and installed factory department and section sign boards for improved workplace organization, safety, and operational efficiency in Koodal Nagar / Koodalpudur, Madurai. ✨ Industrial Department Sign Boards ✨ Factory Section Identification Boards ✨ High-Visibility Workplace Signage ✨ Durable & Professional Finish These industrial signage solutions help employees and visitors easily identify departments, production areas, and operational sections, ensuring a more organized and professional factory environment. Designed using high-quality materials with clear typography and long-lasting durability, suitable for factories, warehouses, industries, and manufacturing units. 📍 Location: Koodal Nagar / Koodalpudur, Madurai We specialize in: ✔ Factory Sign Boards ✔ Industrial Safety Signage ✔ Department & Section Boards ✔ ACP & LED Signage ✔ Commercial & Industrial Branding Solutions 📞 Contact us for customized industrial signage and factory branding solutions in Madurai. #FactorySignBoard #IndustrialSignage #DepartmentBoard #SectionBoard #FactoryBranding #IndustrialSafetySigns #MaduraiSignage #KoodalNagar #ManufacturingSignageMore",
+      "updateIndex": 23,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOSEj8Z3mOZXcELEAdViaP4NTvScgeq6EPmH3Ta=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Raw-materials section identification sign"
+    },
+    {
+      "file": "st-antonys-hospital-01.jpg",
+      "title": "St. Antony's Hospital",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 16, 2026 ACP Elevation with Fully Acrylic LED Letter Signage – St. Antony’s Hospital, Ellis Nagar, Madurai Proudly completed a high-end ACP elevation façade with fully acrylic LED letter signage for St. Antony's Hospital, delivering a bold, modern, and highly visible hospital exterior branding solution. ✨ Premium ACP Front Elevation ✨ Fully Acrylic 3D LED Letter Signage ✨ Ultra Bright Night Visibility ✨ Elegant Architectural Finish ✨ Weather-Resistant Outdoor Branding This custom-designed hospital signage enhances the building’s professional identity, brand visibility, and premium appearance, ensuring the hospital stands out prominently both during the day and at night. Crafted using high-quality ACP cladding, precision acrylic fabrication, and energy-efficient LED illumination, this installation combines durability with sophisticated visual impact. 🏥 Ideal for Hospitals, Medical Centers, Clinics & Corporate Buildings 📍 Location: Ellis Nagar / Mahaboopalayam, Madurai We specialize in: ✔ ACP Elevation Work ✔ Acrylic LED Letter Boards ✔ Hospital Signage Solutions ✔ Commercial Front Elevation Branding ✔ Premium Outdoor Sign Boards in Madurai 📞 Contact us for modern, high-visibility signage solutions that elevate your brand presence. #ACPElevationMadurai #HospitalSignBoard #AcrylicLEDLetters #3DLetterSignBoard #FrontElevationDesign #LEDSignageMadurai #CommercialSignage #HospitalBranding #MaduraiBusinesses #OutdoorSignageMore",
+      "updateIndex": 24,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipO6EvID_w8VcXqs7AZvCuJEsjlpK0_AN6GBxDGJ=w1400",
+      "width": 899,
+      "height": 1599,
+      "alt": "Close view of the illuminated hospital lettering"
+    },
+    {
+      "file": "st-antonys-hospital-02.jpg",
+      "title": "St. Antony's Hospital",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 16, 2026 ACP Elevation with Fully Acrylic LED Letter Signage – St. Antony’s Hospital, Ellis Nagar, Madurai Proudly completed a high-end ACP elevation façade with fully acrylic LED letter signage for St. Antony's Hospital, delivering a bold, modern, and highly visible hospital exterior branding solution. ✨ Premium ACP Front Elevation ✨ Fully Acrylic 3D LED Letter Signage ✨ Ultra Bright Night Visibility ✨ Elegant Architectural Finish ✨ Weather-Resistant Outdoor Branding This custom-designed hospital signage enhances the building’s professional identity, brand visibility, and premium appearance, ensuring the hospital stands out prominently both during the day and at night. Crafted using high-quality ACP cladding, precision acrylic fabrication, and energy-efficient LED illumination, this installation combines durability with sophisticated visual impact. 🏥 Ideal for Hospitals, Medical Centers, Clinics & Corporate Buildings 📍 Location: Ellis Nagar / Mahaboopalayam, Madurai We specialize in: ✔ ACP Elevation Work ✔ Acrylic LED Letter Boards ✔ Hospital Signage Solutions ✔ Commercial Front Elevation Branding ✔ Premium Outdoor Sign Boards in Madurai 📞 Contact us for modern, high-visibility signage solutions that elevate your brand presence. #ACPElevationMadurai #HospitalSignBoard #AcrylicLEDLetters #3DLetterSignBoard #FrontElevationDesign #LEDSignageMadurai #CommercialSignage #HospitalBranding #MaduraiBusinesses #OutdoorSignageMore",
+      "updateIndex": 24,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNMPLXK55169f8n9odWNQz8WnWi0BvW0_hQAfRr=w1400",
+      "width": 1400,
+      "height": 631,
+      "alt": "Completed blue hospital facade and illuminated letters at night"
+    },
+    {
+      "file": "st-antonys-hospital-03.jpg",
+      "title": "St. Antony's Hospital",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 16, 2026 ACP Elevation with Fully Acrylic LED Letter Signage – St. Antony’s Hospital, Ellis Nagar, Madurai Proudly completed a high-end ACP elevation façade with fully acrylic LED letter signage for St. Antony's Hospital, delivering a bold, modern, and highly visible hospital exterior branding solution. ✨ Premium ACP Front Elevation ✨ Fully Acrylic 3D LED Letter Signage ✨ Ultra Bright Night Visibility ✨ Elegant Architectural Finish ✨ Weather-Resistant Outdoor Branding This custom-designed hospital signage enhances the building’s professional identity, brand visibility, and premium appearance, ensuring the hospital stands out prominently both during the day and at night. Crafted using high-quality ACP cladding, precision acrylic fabrication, and energy-efficient LED illumination, this installation combines durability with sophisticated visual impact. 🏥 Ideal for Hospitals, Medical Centers, Clinics & Corporate Buildings 📍 Location: Ellis Nagar / Mahaboopalayam, Madurai We specialize in: ✔ ACP Elevation Work ✔ Acrylic LED Letter Boards ✔ Hospital Signage Solutions ✔ Commercial Front Elevation Branding ✔ Premium Outdoor Sign Boards in Madurai 📞 Contact us for modern, high-visibility signage solutions that elevate your brand presence. #ACPElevationMadurai #HospitalSignBoard #AcrylicLEDLetters #3DLetterSignBoard #FrontElevationDesign #LEDSignageMadurai #CommercialSignage #HospitalBranding #MaduraiBusinesses #OutdoorSignageMore",
+      "updateIndex": 24,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipN9RN06zhIheOtYU2BBcjvrQqyZXpH9VyfXge8k=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Completed hospital elevation in daylight"
+    },
+    {
+      "file": "st-antonys-hospital-04.jpg",
+      "title": "St. Antony's Hospital",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 16, 2026 ACP Elevation with Fully Acrylic LED Letter Signage – St. Antony’s Hospital, Ellis Nagar, Madurai Proudly completed a high-end ACP elevation façade with fully acrylic LED letter signage for St. Antony's Hospital, delivering a bold, modern, and highly visible hospital exterior branding solution. ✨ Premium ACP Front Elevation ✨ Fully Acrylic 3D LED Letter Signage ✨ Ultra Bright Night Visibility ✨ Elegant Architectural Finish ✨ Weather-Resistant Outdoor Branding This custom-designed hospital signage enhances the building’s professional identity, brand visibility, and premium appearance, ensuring the hospital stands out prominently both during the day and at night. Crafted using high-quality ACP cladding, precision acrylic fabrication, and energy-efficient LED illumination, this installation combines durability with sophisticated visual impact. 🏥 Ideal for Hospitals, Medical Centers, Clinics & Corporate Buildings 📍 Location: Ellis Nagar / Mahaboopalayam, Madurai We specialize in: ✔ ACP Elevation Work ✔ Acrylic LED Letter Boards ✔ Hospital Signage Solutions ✔ Commercial Front Elevation Branding ✔ Premium Outdoor Sign Boards in Madurai 📞 Contact us for modern, high-visibility signage solutions that elevate your brand presence. #ACPElevationMadurai #HospitalSignBoard #AcrylicLEDLetters #3DLetterSignBoard #FrontElevationDesign #LEDSignageMadurai #CommercialSignage #HospitalBranding #MaduraiBusinesses #OutdoorSignageMore",
+      "updateIndex": 24,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMqsPoF2nz0M4Ui86N17G3-fPa0AVmLo7CBv-JO=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Circular hospital logo illuminated beside the entrance"
+    },
+    {
+      "file": "st-antonys-hospital-05.jpg",
+      "title": "St. Antony's Hospital",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 16, 2026 ACP Elevation with Fully Acrylic LED Letter Signage – St. Antony’s Hospital, Ellis Nagar, Madurai Proudly completed a high-end ACP elevation façade with fully acrylic LED letter signage for St. Antony's Hospital, delivering a bold, modern, and highly visible hospital exterior branding solution. ✨ Premium ACP Front Elevation ✨ Fully Acrylic 3D LED Letter Signage ✨ Ultra Bright Night Visibility ✨ Elegant Architectural Finish ✨ Weather-Resistant Outdoor Branding This custom-designed hospital signage enhances the building’s professional identity, brand visibility, and premium appearance, ensuring the hospital stands out prominently both during the day and at night. Crafted using high-quality ACP cladding, precision acrylic fabrication, and energy-efficient LED illumination, this installation combines durability with sophisticated visual impact. 🏥 Ideal for Hospitals, Medical Centers, Clinics & Corporate Buildings 📍 Location: Ellis Nagar / Mahaboopalayam, Madurai We specialize in: ✔ ACP Elevation Work ✔ Acrylic LED Letter Boards ✔ Hospital Signage Solutions ✔ Commercial Front Elevation Branding ✔ Premium Outdoor Sign Boards in Madurai 📞 Contact us for modern, high-visibility signage solutions that elevate your brand presence. #ACPElevationMadurai #HospitalSignBoard #AcrylicLEDLetters #3DLetterSignBoard #FrontElevationDesign #LEDSignageMadurai #CommercialSignage #HospitalBranding #MaduraiBusinesses #OutdoorSignageMore",
+      "updateIndex": 24,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipObWcJk2wIUIe2yWPjLBXWYiknWNAJYAHgo0S69=w1400",
+      "width": 899,
+      "height": 1599,
+      "alt": "ACP elevation work during installation"
+    },
+    {
+      "file": "st-antonys-hospital-06.jpg",
+      "title": "St. Antony's Hospital",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 16, 2026 ACP Elevation with Fully Acrylic LED Letter Signage – St. Antony’s Hospital, Ellis Nagar, Madurai Proudly completed a high-end ACP elevation façade with fully acrylic LED letter signage for St. Antony's Hospital, delivering a bold, modern, and highly visible hospital exterior branding solution. ✨ Premium ACP Front Elevation ✨ Fully Acrylic 3D LED Letter Signage ✨ Ultra Bright Night Visibility ✨ Elegant Architectural Finish ✨ Weather-Resistant Outdoor Branding This custom-designed hospital signage enhances the building’s professional identity, brand visibility, and premium appearance, ensuring the hospital stands out prominently both during the day and at night. Crafted using high-quality ACP cladding, precision acrylic fabrication, and energy-efficient LED illumination, this installation combines durability with sophisticated visual impact. 🏥 Ideal for Hospitals, Medical Centers, Clinics & Corporate Buildings 📍 Location: Ellis Nagar / Mahaboopalayam, Madurai We specialize in: ✔ ACP Elevation Work ✔ Acrylic LED Letter Boards ✔ Hospital Signage Solutions ✔ Commercial Front Elevation Branding ✔ Premium Outdoor Sign Boards in Madurai 📞 Contact us for modern, high-visibility signage solutions that elevate your brand presence. #ACPElevationMadurai #HospitalSignBoard #AcrylicLEDLetters #3DLetterSignBoard #FrontElevationDesign #LEDSignageMadurai #CommercialSignage #HospitalBranding #MaduraiBusinesses #OutdoorSignageMore",
+      "updateIndex": 24,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPdnvIGaoEDbTdanJp-vhI7ZMZhJ-qxicHIc9j4=w1400",
+      "width": 1400,
+      "height": 1050,
+      "alt": "Hospital facade surrounded by installation scaffolding"
+    },
+    {
+      "file": "st-antonys-hospital-07.jpg",
+      "title": "St. Antony's Hospital",
+      "displayed": true,
+      "categories": [
+        "led",
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 16, 2026 ACP Elevation with Fully Acrylic LED Letter Signage – St. Antony’s Hospital, Ellis Nagar, Madurai Proudly completed a high-end ACP elevation façade with fully acrylic LED letter signage for St. Antony's Hospital, delivering a bold, modern, and highly visible hospital exterior branding solution. ✨ Premium ACP Front Elevation ✨ Fully Acrylic 3D LED Letter Signage ✨ Ultra Bright Night Visibility ✨ Elegant Architectural Finish ✨ Weather-Resistant Outdoor Branding This custom-designed hospital signage enhances the building’s professional identity, brand visibility, and premium appearance, ensuring the hospital stands out prominently both during the day and at night. Crafted using high-quality ACP cladding, precision acrylic fabrication, and energy-efficient LED illumination, this installation combines durability with sophisticated visual impact. 🏥 Ideal for Hospitals, Medical Centers, Clinics & Corporate Buildings 📍 Location: Ellis Nagar / Mahaboopalayam, Madurai We specialize in: ✔ ACP Elevation Work ✔ Acrylic LED Letter Boards ✔ Hospital Signage Solutions ✔ Commercial Front Elevation Branding ✔ Premium Outdoor Sign Boards in Madurai 📞 Contact us for modern, high-visibility signage solutions that elevate your brand presence. #ACPElevationMadurai #HospitalSignBoard #AcrylicLEDLetters #3DLetterSignBoard #FrontElevationDesign #LEDSignageMadurai #CommercialSignage #HospitalBranding #MaduraiBusinesses #OutdoorSignageMore",
+      "updateIndex": 24,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipN7iL0sp2oNB6ZtaQzpSoIhWG3EJIWJAwT1kV9H=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's day-and-night photographs of the completed elevation"
+    },
+    {
+      "file": "mugilans-jaihindpuram-01.jpg",
+      "title": "Mugilan's Dental Clinic · Jaihindpuram",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 15, 2026 High-Quality UV Backlight Sign Board with Heavy Frame – Mugilan’s Dental Clinic, Jaihindpuram, Madurai Successfully completed a premium UV backlight glow sign board installation with a heavy-duty frame structure for Mugilan's… More",
+      "updateIndex": 25,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPYGD9qq6VucP7fTTr-0Zxn_ie6gXfOlBQ00K9o=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's montage of the dental clinic signage"
+    },
+    {
+      "file": "mugilans-jaihindpuram-02.jpg",
+      "title": "Mugilan's Dental Clinic · Jaihindpuram",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 15, 2026 High-Quality UV Backlight Sign Board with Heavy Frame – Mugilan’s Dental Clinic, Jaihindpuram, Madurai Successfully completed a premium UV backlight glow sign board installation with a heavy-duty frame structure for Mugilan's… More",
+      "updateIndex": 25,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipO-vEoqqoEvtULROM6YpnxPad7iRMGHKbOn9FVg=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Illuminated dental sign fitted above the clinic at night"
+    },
+    {
+      "file": "mugilans-jaihindpuram-03.jpg",
+      "title": "Mugilan's Dental Clinic · Jaihindpuram",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 15, 2026 High-Quality UV Backlight Sign Board with Heavy Frame – Mugilan’s Dental Clinic, Jaihindpuram, Madurai Successfully completed a premium UV backlight glow sign board installation with a heavy-duty frame structure for Mugilan's… More",
+      "updateIndex": 25,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMO4RSodtJcqQbLXrmRGVpNtlo6v_G1QhOmOlgY=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Clinic sign photographed during fabrication before fitting"
+    },
+    {
+      "file": "praba-reddys-01.jpg",
+      "title": "Praba Reddy's Beauty Academy",
+      "displayed": false,
+      "categories": [
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 5, 2026 Reception Backlit Elite LED Logo – Praba Reddy’s Beauty Academy, Mahaboopalayam, Madurai We designed and installed a premium reception backlit elite LED logo signage for Praba Reddy's Beauty Academy, creating a strong and elegant first impression. ✨ Backlit Elite LED Logo ✨ Premium Reception Branding ✨ Soft Glow Illumination ✨ Modern Acrylic Finish This reception signage enhances the brand identity and interior aesthetics, making it perfect for beauty academies, salons, and professional training institutes. 📍 Location: Mahaboopalayam, Madurai We specialize in LED logo boards, acrylic signage, reception branding, and commercial signage solutions in Madurai. 📞 Contact us for custom premium signage design & installation. #LEDLogoSignage #ReceptionBranding #BeautyAcademySignage #BacklitLogo #MaduraiSignage #InteriorSignage #AcrylicSignBoardMore",
+      "updateIndex": 26,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNQJHGZbVfks1kYn7Q8bK9xiMDNxmiwTmxT-WqV=w1400",
+      "width": 1352,
+      "height": 452,
+      "mediaType": "Owner's flat artwork, not a photograph; excluded from the real-work showcase."
+    },
+    {
+      "file": "praba-reddys-02.jpg",
+      "title": "Praba Reddy's Beauty Academy",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 5, 2026 Reception Backlit Elite LED Logo – Praba Reddy’s Beauty Academy, Mahaboopalayam, Madurai We designed and installed a premium reception backlit elite LED logo signage for Praba Reddy's Beauty Academy, creating a strong and elegant first impression. ✨ Backlit Elite LED Logo ✨ Premium Reception Branding ✨ Soft Glow Illumination ✨ Modern Acrylic Finish This reception signage enhances the brand identity and interior aesthetics, making it perfect for beauty academies, salons, and professional training institutes. 📍 Location: Mahaboopalayam, Madurai We specialize in LED logo boards, acrylic signage, reception branding, and commercial signage solutions in Madurai. 📞 Contact us for custom premium signage design & installation. #LEDLogoSignage #ReceptionBranding #BeautyAcademySignage #BacklitLogo #MaduraiSignage #InteriorSignage #AcrylicSignBoardMore",
+      "updateIndex": 26,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMI2ULRgbV9IcVPynAblkj75LKgmASTXy4vbR9w=w1400",
+      "width": 1400,
+      "height": 787,
+      "alt": "Illuminated reception logo on a patterned wall"
+    },
+    {
+      "file": "praba-reddys-03.jpg",
+      "title": "Praba Reddy's Beauty Academy",
+      "displayed": true,
+      "categories": [
+        "reception"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMay 5, 2026 Reception Backlit Elite LED Logo – Praba Reddy’s Beauty Academy, Mahaboopalayam, Madurai We designed and installed a premium reception backlit elite LED logo signage for Praba Reddy's Beauty Academy, creating a strong and elegant first impression. ✨ Backlit Elite LED Logo ✨ Premium Reception Branding ✨ Soft Glow Illumination ✨ Modern Acrylic Finish This reception signage enhances the brand identity and interior aesthetics, making it perfect for beauty academies, salons, and professional training institutes. 📍 Location: Mahaboopalayam, Madurai We specialize in LED logo boards, acrylic signage, reception branding, and commercial signage solutions in Madurai. 📞 Contact us for custom premium signage design & installation. #LEDLogoSignage #ReceptionBranding #BeautyAcademySignage #BacklitLogo #MaduraiSignage #InteriorSignage #AcrylicSignBoardMore",
+      "updateIndex": 26,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPP1-_vCVsGAjcc9ZGxAazCAVl4Z5ZaXKeDQI2A=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Dimensional academy logo photographed during fabrication"
+    },
+    {
+      "file": "yaazhisai-medical-01.jpg",
+      "title": "Yaazhisai Medical Center",
+      "displayed": true,
+      "categories": [
+        "flex"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingApr 24, 2026 Large Outdoor Flex Advertisement Board with Steel Pole – Yaazhisai Medical Center, Othakadai, Madurai We successfully completed a large-size outdoor flex advertisement board installation with a heavy-duty steel pole structure for Yaazhisai Medical Center, ensuring maximum roadside visibility. ✨ Large Format Flex Advertisement ✨ Strong Steel Pole Structure ✨ High Visibility Outdoor Branding ✨ Weather-Resistant Flex Material This outdoor signage is designed to attract attention from a distance, making it ideal for hospitals, clinics, and commercial establishments looking to increase visibility and reach more customers. 📍 Location: Othakadai, Thirumogur–Thiruvathavur Road, Madurai We specialize in outdoor flex boards, pole-mounted signage, LED boards, ACP sign boards, and commercial advertising signage in Madurai. 📞 Contact us for durable and high-visibility signage solutions. #OutdoorFlexBoard #FlexBannerMadurai #MedicalCenterSignage #SteelPoleSignBoard #RoadsideAdvertisement #MaduraiSignage #HospitalSignBoardMore",
+      "updateIndex": 27,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPr9augyGZ2xO8xruqvcc4aPSa5PjnBQg8F8yS2=w1400",
+      "width": 1280,
+      "height": 960,
+      "alt": "Owner's photographs of the medical centre's outdoor signage"
+    },
+    {
+      "file": "yaazhisai-medical-02.jpg",
+      "title": "Yaazhisai Medical Center",
+      "displayed": true,
+      "categories": [
+        "flex"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingApr 24, 2026 Large Outdoor Flex Advertisement Board with Steel Pole – Yaazhisai Medical Center, Othakadai, Madurai We successfully completed a large-size outdoor flex advertisement board installation with a heavy-duty steel pole structure for Yaazhisai Medical Center, ensuring maximum roadside visibility. ✨ Large Format Flex Advertisement ✨ Strong Steel Pole Structure ✨ High Visibility Outdoor Branding ✨ Weather-Resistant Flex Material This outdoor signage is designed to attract attention from a distance, making it ideal for hospitals, clinics, and commercial establishments looking to increase visibility and reach more customers. 📍 Location: Othakadai, Thirumogur–Thiruvathavur Road, Madurai We specialize in outdoor flex boards, pole-mounted signage, LED boards, ACP sign boards, and commercial advertising signage in Madurai. 📞 Contact us for durable and high-visibility signage solutions. #OutdoorFlexBoard #FlexBannerMadurai #MedicalCenterSignage #SteelPoleSignBoard #RoadsideAdvertisement #MaduraiSignage #HospitalSignBoardMore",
+      "updateIndex": 27,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOu2nsJzOHuJc5zO4pv8f9f-hj63vYGaZ6OZeJg=w1400",
+      "width": 1280,
+      "height": 960,
+      "alt": "Full view of the installed roadside medical centre board"
+    },
+    {
+      "file": "yaazhisai-medical-03.jpg",
+      "title": "Yaazhisai Medical Center",
+      "displayed": true,
+      "categories": [
+        "flex"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingApr 24, 2026 Large Outdoor Flex Advertisement Board with Steel Pole – Yaazhisai Medical Center, Othakadai, Madurai We successfully completed a large-size outdoor flex advertisement board installation with a heavy-duty steel pole structure for Yaazhisai Medical Center, ensuring maximum roadside visibility. ✨ Large Format Flex Advertisement ✨ Strong Steel Pole Structure ✨ High Visibility Outdoor Branding ✨ Weather-Resistant Flex Material This outdoor signage is designed to attract attention from a distance, making it ideal for hospitals, clinics, and commercial establishments looking to increase visibility and reach more customers. 📍 Location: Othakadai, Thirumogur–Thiruvathavur Road, Madurai We specialize in outdoor flex boards, pole-mounted signage, LED boards, ACP sign boards, and commercial advertising signage in Madurai. 📞 Contact us for durable and high-visibility signage solutions. #OutdoorFlexBoard #FlexBannerMadurai #MedicalCenterSignage #SteelPoleSignBoard #RoadsideAdvertisement #MaduraiSignage #HospitalSignBoardMore",
+      "updateIndex": 27,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPfwuLTgV_g2PITEZ4cqkAPxSxE6CbVdEiS8ss2=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Printed medical centre board photographed before fitting"
+    },
+    {
+      "file": "breathe-new-kiosk-01.jpg",
+      "title": "Breathe New · Kiosk signage",
+      "displayed": true,
+      "categories": [
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingApr 3, 2026 Kiosk Stall ACP Embedded Light Sign Board – Maharashtra Delivery Successfully designed and delivered a premium ACP embedded light sign board for a kiosk stall, crafted for strong visibility and modern branding. ✨ ACP Embedded Light Board ✨ Bright LED Illumination ✨ Compact Kiosk Branding Solution ✨ Durable & Travel-Safe Fabrication This signage is perfect for kiosk stalls, mall counters, food stalls, and retail outlets, ensuring the brand stands out with a clean, illuminated, and professional look. 📦 Delivered safely to Maharashtra We provide custom kiosk signage, ACP sign boards, LED sign boards, and commercial branding solutions across India. 📞 Contact us for high-quality signage design & manufacturing. #KioskSignage #ACPEmbeddedBoard #LEDSignBoard #KioskBranding #RetailSignage #CommercialSignageIndia #SignBoardManufacturersMore",
+      "updateIndex": 28,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMZKD-ntfzxntLOswPUbq7TXFsffXYJPt-5E-iB=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's fabrication photograph with the kiosk design reference"
+    },
+    {
+      "file": "breathe-new-kiosk-02.jpg",
+      "title": "Breathe New · Kiosk signage",
+      "displayed": true,
+      "categories": [
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingApr 3, 2026 Kiosk Stall ACP Embedded Light Sign Board – Maharashtra Delivery Successfully designed and delivered a premium ACP embedded light sign board for a kiosk stall, crafted for strong visibility and modern branding. ✨ ACP Embedded Light Board ✨ Bright LED Illumination ✨ Compact Kiosk Branding Solution ✨ Durable & Travel-Safe Fabrication This signage is perfect for kiosk stalls, mall counters, food stalls, and retail outlets, ensuring the brand stands out with a clean, illuminated, and professional look. 📦 Delivered safely to Maharashtra We provide custom kiosk signage, ACP sign boards, LED sign boards, and commercial branding solutions across India. 📞 Contact us for high-quality signage design & manufacturing. #KioskSignage #ACPEmbeddedBoard #LEDSignBoard #KioskBranding #RetailSignage #CommercialSignageIndia #SignBoardManufacturersMore",
+      "updateIndex": 28,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNLeccEyCz8syOlcuftp1jsKmXEC404OQxjxOQD=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Kiosk light sign photographed in the workshop before delivery to Maharashtra"
+    },
+    {
+      "file": "homeopathy-jaihindpuram-01.jpg",
+      "title": "AR Homeopathy Clinic",
+      "displayed": true,
+      "categories": [
+        "uv",
+        "flex"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingApr 3, 2026 Homeopathy Clinic UV Flex Glow Sign Board – Jaihindpuram, Madurai Successfully installed a UV flex glow sign board for a homeopathy clinic in Jaihindpuram, Madurai, designed for clear visibility and professional clinic… More",
+      "updateIndex": 29,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOmLAN8keJ-siUz0hDVqHhqnayFDHFpqGw0H9G5=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's fabrication photographs of the red clinic sign"
+    },
+    {
+      "file": "homeopathy-jaihindpuram-02.jpg",
+      "title": "AR Homeopathy Clinic",
+      "displayed": true,
+      "categories": [
+        "uv",
+        "flex"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingApr 3, 2026 Homeopathy Clinic UV Flex Glow Sign Board – Jaihindpuram, Madurai Successfully installed a UV flex glow sign board for a homeopathy clinic in Jaihindpuram, Madurai, designed for clear visibility and professional clinic… More",
+      "updateIndex": 29,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMMjuZaygjBFb4jtlrTYeJs6Jl9A_BO8xGeBkWi=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "AR Homeopathy Clinic sign fitted above the entrance"
+    },
+    {
+      "file": "homeopathy-jaihindpuram-03.jpg",
+      "title": "AR Homeopathy Clinic",
+      "displayed": true,
+      "categories": [
+        "uv",
+        "flex"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingApr 3, 2026 Homeopathy Clinic UV Flex Glow Sign Board – Jaihindpuram, Madurai Successfully installed a UV flex glow sign board for a homeopathy clinic in Jaihindpuram, Madurai, designed for clear visibility and professional clinic… More",
+      "updateIndex": 29,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOQVZXKQ9MNNUKjlbZZ024IBaAT-nM42Im_DVlZ=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's montage of the installed clinic signage and artwork"
+    },
+    {
+      "file": "accountant-kk-nagar-01.jpg",
+      "title": "Subbiah Subramanian & Associates",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingApr 3, 2026 Acrylic Minimal Embedded Sign Board – Chartered Accountant Office, KK Nagar, Madurai We completed a premium acrylic minimal embedded sign board installation for a Chartered Accountant office in KK Nagar, Madurai, delivering a clean and professional corporate look. ✨ Minimal Acrylic Embedded Design ✨ Elegant & Modern Finish ✨ Clear Professional Branding ✨ Durable Indoor Signage This signage style is perfect for offices like Chartered Accountants, consultants, and corporate spaces, where a minimal and premium appearance is essential. 📍 Project Location: KK Nagar, Madurai For Acrylic Sign Boards, Office Name Boards, LED Signage, and Commercial Signage in Madurai, contact us for custom design and installation. #AcrylicSignBoard #MinimalSignage #OfficeSignBoard #CharteredAccountantOffice #MaduraiSignage #KKNagarMadurai #CorporateBrandingMore",
+      "updateIndex": 30,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipOFK_G3b8L40jIkI91vWHMm64tiVpIMjj8boEtS=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's photographs of the accountants' fabricated and fitted acrylic sign"
+    },
+    {
+      "file": "accountant-kk-nagar-02.jpg",
+      "title": "Subbiah Subramanian & Associates",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingApr 3, 2026 Acrylic Minimal Embedded Sign Board – Chartered Accountant Office, KK Nagar, Madurai We completed a premium acrylic minimal embedded sign board installation for a Chartered Accountant office in KK Nagar, Madurai, delivering a clean and professional corporate look. ✨ Minimal Acrylic Embedded Design ✨ Elegant & Modern Finish ✨ Clear Professional Branding ✨ Durable Indoor Signage This signage style is perfect for offices like Chartered Accountants, consultants, and corporate spaces, where a minimal and premium appearance is essential. 📍 Project Location: KK Nagar, Madurai For Acrylic Sign Boards, Office Name Boards, LED Signage, and Commercial Signage in Madurai, contact us for custom design and installation. #AcrylicSignBoard #MinimalSignage #OfficeSignBoard #CharteredAccountantOffice #MaduraiSignage #KKNagarMadurai #CorporateBrandingMore",
+      "updateIndex": 30,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNnIqhA7crspZl1FgNpSv33hQoac_0Puu7LHwse=w1400",
+      "width": 716,
+      "height": 1600,
+      "alt": "Subbiah Subramanian & Associates identification fitted on the office wall"
+    },
+    {
+      "file": "perungudi-uv-01.jpg",
+      "title": "Mona's Beauty & Bridal",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMar 14, 2026 UV Backlight Glow Sign Board Installation – Perungudi, Madurai Premium UV Backlight Glow Sign Board Installation in Perungudi, Madurai We recently completed a UV backlight glow sign board installation designed to deliver strong visibility, modern branding, and long-lasting performance for commercial spaces. ✨ UV Printed Glow Sign Board ✨ Bright Backlit Illumination ✨ Weather-Resistant Materials ✨ Professional Installation Our custom glow sign boards ensure businesses stand out with clear visibility during both day and night, helping attract more customers and build a strong brand presence. 📍 Project Location: Perungudi, Madurai For Glow Sign Boards, LED Sign Boards, ACP Sign Boards, and Commercial Signage in Madurai, contact us today. #GlowSignBoardMadurai #UVBacklightSignBoard #SignBoardManufacturersMadurai #CommercialSignageMadurai #ShopFrontSignBoardMore",
+      "updateIndex": 31,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPA0XC9AdkcIb3qYtAEueKuZMmUTXa9HVAF4B5c=w1400",
+      "width": 1400,
+      "height": 626,
+      "alt": "Mona's Beauty & Bridal sign illuminated during workshop fabrication"
+    },
+    {
+      "file": "perungudi-uv-02.jpg",
+      "title": "Mona's Beauty & Bridal",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMar 14, 2026 UV Backlight Glow Sign Board Installation – Perungudi, Madurai Premium UV Backlight Glow Sign Board Installation in Perungudi, Madurai We recently completed a UV backlight glow sign board installation designed to deliver strong visibility, modern branding, and long-lasting performance for commercial spaces. ✨ UV Printed Glow Sign Board ✨ Bright Backlit Illumination ✨ Weather-Resistant Materials ✨ Professional Installation Our custom glow sign boards ensure businesses stand out with clear visibility during both day and night, helping attract more customers and build a strong brand presence. 📍 Project Location: Perungudi, Madurai For Glow Sign Boards, LED Sign Boards, ACP Sign Boards, and Commercial Signage in Madurai, contact us today. #GlowSignBoardMadurai #UVBacklightSignBoard #SignBoardManufacturersMadurai #CommercialSignageMadurai #ShopFrontSignBoardMore",
+      "updateIndex": 31,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNYSWMcb0ofqO-34VegNNCCP8lMtS9q-guhXlzN=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's workshop and installed salon-sign photographs"
+    },
+    {
+      "file": "safety-wayfinding-01.jpg",
+      "title": "Fire safety & general signage",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMar 13, 2026 Professional Fire Safety & General Signage Installation in Madurai We provide high-visibility fire safety signage and general wayfinding signage for commercial buildings, offices, hospitals, schools, and industrial spaces. Our signage… More",
+      "updateIndex": 32,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNT9xO3PvYHxFEY8ZcCDTLVxd8Ujs2aUr-8yUiL=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's photographs of fabricated fire-safety and wayfinding boards"
+    },
+    {
+      "file": "safety-wayfinding-02.jpg",
+      "title": "Fire safety & general signage",
+      "displayed": true,
+      "categories": [
+        "commercial"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingMar 13, 2026 Professional Fire Safety & General Signage Installation in Madurai We provide high-visibility fire safety signage and general wayfinding signage for commercial buildings, offices, hospitals, schools, and industrial spaces. Our signage… More",
+      "updateIndex": 32,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipNiisQiX8e3H-GVzDS6iVJLpCQWpN7bJ-k9od_5=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Fire-exit direction boards photographed during fabrication"
+    },
+    {
+      "file": "atmen-attire-01.jpg",
+      "title": "Atmen Attire",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingFeb 14, 2026 We’re proud to deliver a high-quality UV Backlight Sign Board for Atmen Attire at 📍 Iyer Bungalow. 💡 Bright Illumination 🎯 Sharp UV Print Quality 🌙 Stunning Night Visibility 🏢 Premium & Professional Finish This board doesn’t just display a name — it creates presence and attracts attention day & night. Thank you Atmen Attire for trusting us with your brand identity! 📞 Looking for premium sign boards for your business? Let’s make your brand shine brighter than the rest! #UVBacklightBoard #SignageDesign #BrandingSolutions #AtmenAttire #IyerBungalow #ShopBranding #LEDSignBoard #BusinessVisibility #MaduraiBusinessMore",
+      "updateIndex": 33,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipMEjPsOr6ItkPN7zAEfUWXT4N2oVa5vzeTiuOgO=w1400",
+      "width": 1062,
+      "height": 1600,
+      "alt": "Illuminated green apparel-store sign at night"
+    },
+    {
+      "file": "atmen-attire-02.jpg",
+      "title": "Atmen Attire",
+      "displayed": true,
+      "categories": [
+        "uv"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingFeb 14, 2026 We’re proud to deliver a high-quality UV Backlight Sign Board for Atmen Attire at 📍 Iyer Bungalow. 💡 Bright Illumination 🎯 Sharp UV Print Quality 🌙 Stunning Night Visibility 🏢 Premium & Professional Finish This board doesn’t just display a name — it creates presence and attracts attention day & night. Thank you Atmen Attire for trusting us with your brand identity! 📞 Looking for premium sign boards for your business? Let’s make your brand shine brighter than the rest! #UVBacklightBoard #SignageDesign #BrandingSolutions #AtmenAttire #IyerBungalow #ShopBranding #LEDSignBoard #BusinessVisibility #MaduraiBusinessMore",
+      "updateIndex": 33,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipPhgMHPLQEmlRegibuINhPET1xHcfwf2RW68Vba=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's montage of the sign during fabrication and after fitting"
+    },
+    {
+      "file": "mughilans-avaniyapuram-01.jpg",
+      "title": "Mughilan's Dental · Avaniyapuram",
+      "displayed": true,
+      "categories": [
+        "acp"
+      ],
+      "captionEvidence": "VNR Signage & AdvertisingFeb 14, 2026 We’re proud to deliver a high-quality ACP Cladding with Full Acrylic Letter Sign Board for Mughilan’s Dental at 📍 Avaniyapuram. ✨ Complete Exterior & Interior Execution: ✔ Premium ACP Cladding ✔ Elegant Full Acrylic Sign Boar… More",
+      "updateIndex": 34,
+      "url": "https://lh3.googleusercontent.com/geougc/AF1QipM9EmUPn8hpEs2qNH5q_eBsLspvA1o62xuA6lHK=w1400",
+      "width": 1213,
+      "height": 1600,
+      "alt": "Owner's daylight and night photographs of the dental clinic's exterior signage"
+    }
+  ]
+}

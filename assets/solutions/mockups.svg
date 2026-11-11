@@ -1,0 +1,279 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" fill="none" stroke="none">
+  <title>Original illustrative signage mockups, not actual projects</title>
+  <view id="led" viewBox="0 0 960 640"/>
+  <view id="uv" viewBox="0 640 960 640"/>
+  <view id="reception" viewBox="0 1280 960 640"/>
+  <view id="flex" viewBox="0 1920 960 640"/>
+  <view id="name" viewBox="0 2560 960 640"/>
+  <view id="display" viewBox="0 3200 960 640"/>
+  <view id="event" viewBox="0 3840 960 640"/>
+  <view id="frame" viewBox="0 4480 960 640"/>
+  <defs>
+    <linearGradient id="stone" x2="1" y2="1">
+      <stop stop-color="#f0ede5"/><stop offset="1" stop-color="#c9c6bc"/>
+    </linearGradient>
+    <linearGradient id="floor" x2="0" y2="1">
+      <stop stop-color="#b3b0a5"/><stop offset="1" stop-color="#e4e0d6"/>
+    </linearGradient>
+    <linearGradient id="glass" x2="1" y2="1">
+      <stop stop-color="#263d37"/><stop offset=".5" stop-color="#53665a"/><stop offset="1" stop-color="#1b2b26"/>
+    </linearGradient>
+    <linearGradient id="gold" x2=".8" y2="1">
+      <stop stop-color="#f5e8c8"/><stop offset=".4" stop-color="#d5bb83"/><stop offset=".6" stop-color="#a88a53"/><stop offset="1" stop-color="#e3d2ad"/>
+    </linearGradient>
+    <linearGradient id="green" x2="1" y2="1">
+      <stop stop-color="#315f47"/><stop offset="1" stop-color="#0d3128"/>
+    </linearGradient>
+    <linearGradient id="night" x2=".1" y2="1">
+      <stop stop-color="#213b3d"/><stop offset="1" stop-color="#101c1f"/>
+    </linearGradient>
+    <linearGradient id="beam" x2="0" y2="1">
+      <stop stop-color="#fff5d5" stop-opacity=".3"/><stop offset="1" stop-color="#fff5d5" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="wall-light">
+      <stop stop-color="#fdf5db" stop-opacity=".6"/><stop offset="1" stop-color="#fdf5db" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="led-light">
+      <stop stop-color="#cef9a4" stop-opacity=".35"/><stop offset="1" stop-color="#cef9a4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="timber" width="22" height="640" patternUnits="userSpaceOnUse">
+      <path fill="#8b755a" d="M0 0h22v640H0z"/><path fill="#a28d6d" d="M2 0h13v640H2z"/><path fill="#594b39" d="M19 0h3v640h-3z"/><path stroke="#b09a78" stroke-width="1" opacity=".3" d="M5 0v640M11 0v640"/>
+    </pattern>
+    <pattern id="stone-grain" width="70" height="57" patternUnits="userSpaceOnUse">
+      <circle cx="7" cy="12" r="1" fill="#655f4e" opacity=".09"/><circle cx="38" cy="39" r=".8" fill="#fff" opacity=".45"/><path stroke="#827965" opacity=".07" d="m52 5 6 2M18 45h4"/>
+    </pattern>
+    <pattern id="matrix-dim" width="9" height="9" patternUnits="userSpaceOnUse">
+      <circle cx="4.5" cy="4.5" r="2" fill="#26372c"/>
+    </pattern>
+    <pattern id="matrix-lit" width="9" height="9" patternUnits="userSpaceOnUse">
+      <circle cx="4.5" cy="4.5" r="2.8" fill="#d2ff7b"/>
+    </pattern>
+    <filter id="shadow" x="-.3" y="-.4" width="1.6" height="1.9" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="13" flood-color="#101b15" flood-opacity=".28"/>
+    </filter>
+    <filter id="small-shadow" x="-.3" y="-.4" width="1.6" height="1.9" color-interpolation-filters="sRGB">
+      <feDropShadow dx="3" dy="5" stdDeviation="3" flood-color="#101b15" flood-opacity=".4"/>
+    </filter>
+    <filter id="glow" x="-.4" y="-.6" width="1.8" height="2.2" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#daffb7" flood-opacity=".65"/>
+    </filter>
+    <g id="plant">
+      <ellipse cx="0" cy="6" rx="50" ry="12" fill="#122019" opacity=".16"/>
+      <path fill="#7a806e" d="m-31-60 8 64h46l8-64z"/><ellipse cy="-60" rx="31" ry="7" fill="#505b48"/>
+      <path stroke="#4b6742" stroke-width="4" d="M0-60v-130m0 80-29-55m29 37 34-51m-34 75-42-28m42 12 46-31"/>
+      <path fill="#456a49" d="M0-177q-36-63-4-86 30 39 4 86M-24-150q-55-11-55-52 48 2 55 52M25-158q-3-50 37-66 16 42-37 66M-26-119q-54 8-66-25 46-17 66 25M27-125q22-46 60-30-10 37-60 30"/>
+      <path fill="#73916a" d="M0-180q-5-42-4-73M-26-151q-23-20-45-39M27-159q15-24 28-51" opacity=".6"/>
+    </g>
+    <g id="ceiling-light">
+      <path fill="url(#beam)" d="m0 0-95 250H95z"/><ellipse rx="15" ry="4" fill="#686c62"/><ellipse rx="10" ry="2" fill="#fff7df"/>
+    </g>
+    <g id="window">
+      <path fill="url(#glass)" d="M0 0h680v270H0z"/>
+      <path fill="#cfdfca" opacity=".11" d="M90 0h130L0 230v-90zm410 0h140L380 270H245z"/>
+      <path stroke="#13231c" stroke-width="9" d="M0 0h680v270H0zM225 0v270M455 0v270M0 70h680"/>
+      <path stroke="#d4d8c8" stroke-opacity=".25" stroke-width="2" d="M9 10h662M233 10v250M463 10v250"/>
+    </g>
+  </defs>
+
+  <g>
+    <path fill="url(#stone)" d="M0 0h960v640H0z"/>
+    <path fill="#d1cdc1" d="M0 0h960v35H0z"/><path fill="#aaa99e" d="M0 35h960v7H0z"/>
+    <path fill="#8c9482" d="M0 0h80v535H0z"/><path fill="#65715e" d="M80 0h18v535H80z"/>
+    <path fill="#e1dfd5" d="M862 0h98v535h-98z"/><path fill="#b9b9ac" d="M862 0h12v535h-12z"/>
+    <path fill="url(#stone-grain)" d="M100 42h760v480H100z"/>
+    <path fill="url(#floor)" d="M0 530h960v110H0z"/>
+    <path stroke="#a9a899" stroke-width="1.4" d="m100 640 130-110m90 110 50-110m150 110-15-110m190 110-95-110m230 110L745 530M0 577h960M0 618h960"/>
+    <rect x="131" y="83" width="698" height="158" rx="3" fill="#8b8d7e"/>
+    <rect x="125" y="76" width="698" height="158" rx="3" fill="#1e3028" filter="url(#shadow)"/>
+    <ellipse cx="480" cy="155" rx="320" ry="115" fill="url(#led-light)"/>
+    <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="86" letter-spacing="20" text-anchor="middle">
+      <text x="488" y="180" fill="#566950">FORM</text>
+      <text x="484" y="175" fill="#eaf3dc" filter="url(#glow)">FORM</text>
+    </g>
+    <text x="480" y="208" fill="#c6d1bc" font-family="Arial, sans-serif" font-size="10" letter-spacing="6" text-anchor="middle">STUDIO / SPACE / IDENTITY</text>
+    <use href="#window" x="140" y="263"/>
+    <path fill="#bdbfb0" d="M121 528h718v13H121z"/>
+    <path fill="#939c8a" d="M113 541h734v12H113z"/>
+    <path stroke="#dce4d4" stroke-width="4" d="M473 386v48m14-48v48"/>
+    <use href="#plant" transform="translate(840 552) scale(.66)"/>
+    <use href="#plant" transform="translate(117 551) scale(.5)"/>
+  </g>
+
+  <g transform="translate(0 640)">
+    <path fill="url(#stone)" d="M0 0h960v640H0z"/>
+    <path fill="url(#timber)" d="M0 0h190v535H0z"/>
+    <path fill="#403f31" opacity=".15" d="M190 0h14v535h-14z"/>
+    <path fill="#ebe7d9" d="M204 0h756v52H204z"/><path fill="#bdbbae" d="M204 52h756v4H204z"/>
+    <use href="#ceiling-light" x="315" y="53"/><use href="#ceiling-light" x="760" y="53"/>
+    <ellipse cx="560" cy="245" rx="350" ry="220" fill="url(#wall-light)"/>
+    <rect x="308" y="102" width="486" height="282" rx="3" fill="#eaf5c8" filter="url(#glow)"/>
+    <rect x="313" y="107" width="476" height="272" rx="1" fill="url(#green)" filter="url(#shadow)"/>
+    <path fill="#7c9975" opacity=".45" d="M789 109v270H639q-10-74 55-92-64-80 5-102 5-58 90-76"/>
+    <path fill="#a9bf83" opacity=".5" d="M729 347q-78-84-33-124 53 24 33 124m15-95q-1-82 45-94v69z"/>
+    <path stroke="#c5d5a5" stroke-width="1.5" opacity=".6" d="M720 371q4-123 68-203M720 318l-25-74"/>
+    <text x="349" y="162" fill="#dce9c7" font-family="Arial, sans-serif" font-size="10" letter-spacing="5">SEASONAL KITCHEN</text>
+    <text x="346" y="243" fill="#f3f1df" font-family="Georgia, serif" font-size="67" letter-spacing="-2">Botanic.</text>
+    <path stroke="#d5e0bb" stroke-width="1" d="M351 275h182"/>
+    <text x="350" y="310" fill="#dce9c7" font-family="Arial, sans-serif" font-size="14" letter-spacing="4">FRESH. EVERY DAY.</text>
+    <path fill="url(#floor)" d="M0 533h960v107H0z"/>
+    <path fill="#685e48" d="M245 420h588v152H245z"/><path fill="url(#timber)" d="M245 430h588v142H245z"/>
+    <path fill="#24382c" d="M230 405h618v21H230z"/><path fill="#3c4a37" d="m230 405 20-9h578l20 9z"/>
+    <path fill="#2c3429" opacity=".2" d="M245 572h588l36 19H217z"/>
+    <use href="#plant" transform="translate(887 555) scale(.79)"/>
+    <path fill="#d4c7a8" d="M286 375h35l-5 28h-25z"/><path stroke="#667b49" stroke-width="3" d="M304 377v-40m0 17-11-17m11 10 13-16"/>
+  </g>
+
+  <g transform="translate(0 1280)">
+    <path fill="url(#stone)" d="M0 0h960v640H0z"/>
+    <path stroke="#b8ae98" stroke-width="2" opacity=".35" d="m50 0 80 96-20 79 90 114-32 89 104 123M280 0l-20 89 73 70-12 98 57 77m30-334 90 120-30 71 67 72"/>
+    <path fill="url(#timber)" d="M670 0h192v515H670z"/><path fill="#b4b8aa" d="M862 0h98v515h-98z"/>
+    <path fill="url(#glass)" d="M883 75h77v420h-77z"/><path stroke="#172c23" stroke-width="7" d="M883 75v420m0-210h77"/>
+    <path fill="#e8e4d8" d="M0 0h862v38H0z"/>
+    <use href="#ceiling-light" x="218" y="38"/><use href="#ceiling-light" x="580" y="38"/>
+    <ellipse cx="415" cy="251" rx="285" ry="200" fill="url(#wall-light)"/>
+    <g filter="url(#small-shadow)">
+      <path stroke="url(#gold)" stroke-width="5" d="m413 120 37 37-37 37-37-37z"/>
+      <path stroke="url(#gold)" stroke-width="2" d="M413 130v54m-27-27h54"/>
+      <text x="416" y="268" fill="url(#gold)" stroke="#91764b" stroke-width=".6" font-family="Arial, sans-serif" font-weight="500" font-size="59" letter-spacing="15" text-anchor="middle">STUDIO</text>
+    </g>
+    <text x="413" y="308" fill="#6c715f" font-family="Arial, sans-serif" font-size="10" letter-spacing="5" text-anchor="middle">A CONSIDERED FIRST IMPRESSION</text>
+    <path fill="url(#floor)" d="M0 515h960v125H0z"/>
+    <ellipse cx="455" cy="568" rx="313" ry="30" fill="#1b281b" opacity=".12"/>
+    <path fill="#b5b39f" d="m716 417 56-23v145l-56 34z"/>
+    <path fill="#e9e4d6" d="M185 417h531v156H185z"/>
+    <path fill="url(#stone-grain)" d="M185 417h531v156H185z"/>
+    <path fill="#d6d1bf" d="m185 417 56-23h531l-56 23z"/>
+    <path fill="#303c30" d="M185 417h531v8H185z"/><path fill="#59604e" d="M204 562h493v13H204z"/>
+    <path stroke="#bbb69f" stroke-width="1" opacity=".5" d="m260 425 79 70-22 67m159-137-17 49 92 88"/>
+    <path fill="#26342b" d="m525 365 71 1 4 40h-79z"/><path fill="#60735c" d="m529 370 61 1 3 28h-67z"/>
+    <use href="#plant" transform="translate(108 553) scale(.86)"/>
+  </g>
+
+  <g transform="translate(0 1920)">
+    <path fill="#dedfd3" d="M0 0h960v640H0z"/>
+    <path fill="#c5c8b7" d="M0 0h93v563H0z"/><path fill="#e9e7da" d="M93 0h774v563H93z"/>
+    <path fill="url(#stone-grain)" d="M93 0h774v563H93z"/>
+    <path fill="#c4c6b8" d="M867 0h93v563h-93z"/>
+    <rect x="137" y="91" width="686" height="204" rx="2" fill="#6c715e" filter="url(#shadow)"/>
+    <rect x="145" y="99" width="670" height="188" fill="#e5e9c9"/>
+    <path fill="#31513b" d="M145 99h270v188H145z"/><path fill="#496d45" d="M417 99q112 49 142 188H415V99z"/>
+    <path fill="#b4c386" d="M815 99v188H692q-1-130 123-188"/>
+    <text x="181" y="153" fill="#d8e6bf" font-family="Arial, sans-serif" font-size="10" letter-spacing="4">GOOD THINGS, CLOSE TO HOME.</text>
+    <text x="180" y="211" fill="#f0f0d7" font-family="Georgia, serif" font-size="53">The Market</text>
+    <text x="181" y="251" fill="#d8e6bf" font-family="Arial, sans-serif" font-size="10" letter-spacing="3">FRESH IDEAS. EVERY DAY.</text>
+    <g fill="#e9e8dc" stroke="#718064" stroke-width="1">
+      <circle cx="153" cy="107" r="3"/><circle cx="480" cy="107" r="3"/><circle cx="807" cy="107" r="3"/><circle cx="153" cy="279" r="3"/><circle cx="480" cy="279" r="3"/><circle cx="807" cy="279" r="3"/>
+    </g>
+    <path fill="#fff" opacity=".08" d="m154 102 63 178h10l-41-178z"/>
+    <use href="#window" transform="translate(188 325) scale(.86 .87)"/>
+    <path fill="url(#floor)" d="M0 563h960v77H0z"/>
+    <path fill="#b5b8a6" d="M172 559h617v15H172z"/><path fill="#cacebc" d="M158 574h645v15H158z"/>
+    <path fill="#a2a795" d="M152 589h657v5H152z"/>
+    <path stroke="#b1b5a4" stroke-width="1" d="m112 640 106-45m182 45 16-45m272 45-48-45"/>
+    <use href="#plant" transform="translate(119 580) scale(.54)"/><use href="#plant" transform="translate(849 579) scale(.65)"/>
+  </g>
+
+  <g transform="translate(0 2560)">
+    <path fill="#dfe1d4" d="M0 0h960v640H0z"/>
+    <path fill="#eff0e5" d="M287 0h673v544H287z"/><path fill="url(#stone-grain)" d="M287 0h673v544H287z"/>
+    <path fill="#c6cab8" d="M287 0h15v544h-15z"/>
+    <path fill="#324638" d="M0 0h267v544H0z"/>
+    <g stroke="#71806a" stroke-width="9"><path d="M26 0v544M58 0v544M90 0v544M122 0v544M154 0v544M186 0v544M218 0v544M250 0v544"/></g>
+    <path fill="#203528" d="M0 370h267v14H0z"/><path fill="#a7b095" d="M231 296h7v49h-7z"/>
+    <path fill="#a3a994" opacity=".14" d="m850 0-90 150 56-5-87 119 95-58-45 104 111-79 70-13V0z"/>
+    <path fill="#b4ba9e" opacity=".16" d="m635 0-20 111 99-63 2 124 102-94 43 29 18-107z"/>
+    <rect x="411" y="185" width="354" height="221" rx="5" fill="#65705c" filter="url(#shadow)"/>
+    <rect x="403" y="177" width="354" height="221" rx="5" fill="#2d4134"/>
+    <rect x="418" y="192" width="324" height="191" rx="2" stroke="#9eaa8b" stroke-width="1"/>
+    <g fill="url(#gold)" font-family="Georgia, serif" text-anchor="middle" filter="url(#small-shadow)">
+      <text x="580" y="264" font-size="30" font-style="italic">The</text>
+      <text x="580" y="319" font-size="43">Residence</text>
+    </g>
+    <path stroke="#b8bd9e" stroke-width="1" d="M550 346h60"/>
+    <g fill="#b5b99c"><circle cx="413" cy="188" r="3"/><circle cx="747" cy="188" r="3"/><circle cx="413" cy="388" r="3"/><circle cx="747" cy="388" r="3"/></g>
+    <path fill="url(#floor)" d="M0 544h960v96H0z"/>
+    <path fill="#bec3af" d="M0 544h960v13H0z"/><path fill="#d4d8c5" d="M0 557h960v16H0z"/>
+    <path stroke="#b2b9a2" stroke-width="1" d="M0 604h960m-798 36 83-67m212 67 20-67m263 67-35-67"/>
+    <use href="#plant" transform="translate(859 577) scale(.78)"/>
+  </g>
+
+  <g transform="translate(0 3200)">
+    <defs><clipPath id="display-letters"><text x="482" y="256" font-family="Courier New, monospace" font-size="70" font-weight="700" letter-spacing="11" text-anchor="middle">WELCOME</text></clipPath></defs>
+    <path fill="#e4e8df" d="M0 0h960v640H0z"/>
+    <path fill="#f3f4ea" d="M90 0h780v545H90z"/><path fill="url(#stone-grain)" d="M90 0h780v545H90z"/>
+    <path fill="#b9c3b1" d="M0 0h77v547H0z"/><path fill="#c3ccbb" d="M883 0h77v547h-77z"/>
+    <path stroke="#c8cdbc" stroke-width="2" d="M90 154h780M90 339h780"/>
+    <text x="480" y="118" fill="#456148" font-family="Georgia, serif" font-size="34" letter-spacing="5" text-anchor="middle">THE PRACTICE</text>
+    <rect x="166" y="181" width="634" height="137" rx="4" fill="#78816f" filter="url(#shadow)"/>
+    <rect x="159" y="174" width="634" height="137" rx="4" fill="#23362b"/>
+    <path fill="#09140f" d="M173 188h606v109H173z"/><path fill="url(#matrix-dim)" d="M180 194h592v96H180z"/>
+    <path fill="url(#matrix-lit)" clip-path="url(#display-letters)" d="M180 194h592v76H180z"/>
+    <g font-family="Courier New, monospace" font-size="12" letter-spacing="3" text-anchor="middle">
+      <text x="345" y="285" fill="#f7ad83">YOUR</text><text x="468" y="285" fill="#b9e89b">MESSAGE</text><text x="605" y="285" fill="#a8d7ec">HERE</text>
+    </g>
+    <use href="#window" transform="translate(216 354) scale(.78 .69)"/>
+    <path stroke="#c0cebc" stroke-width="4" d="M479 424v45m14-45v45"/>
+    <path fill="url(#floor)" d="M0 545h960v95H0z"/>
+    <path fill="#b5bfab" d="M194 538h574v16H194z"/><path fill="#cbd3bf" d="M184 554h594v13H184z"/>
+    <path stroke="#b2bba5" stroke-width="1" d="M0 605h960m-755 35 86-73m428 73-64-73"/>
+    <use href="#plant" transform="translate(124 565) scale(.62)"/><use href="#plant" transform="translate(844 564) scale(.62)"/>
+  </g>
+
+  <g transform="translate(0 3840)">
+    <path fill="url(#night)" d="M0 0h960v640H0z"/>
+    <path fill="#334b48" d="M80 40h800v436H80z"/>
+    <path fill="url(#glass)" d="M95 95h770v370H95z"/>
+    <path fill="#bcc5a0" opacity=".12" d="m95 95 214 370h69L181 95zm466 0 216 370h62L653 95z"/>
+    <g stroke="#142925" stroke-width="8"><path d="M95 95h770v370H95zM250 95v370M405 95v370M560 95v370M715 95v370M95 266h770"/></g>
+    <path fill="#53605a" d="M80 40h800v47H80z"/><path fill="#919783" d="M80 84h800v4H80z"/>
+    <use href="#ceiling-light" x="140" y="87"/><use href="#ceiling-light" x="475" y="87"/><use href="#ceiling-light" x="811" y="87"/>
+    <path fill="#1d2b28" d="M0 476h960v164H0z"/>
+    <path stroke="#48534a" stroke-width="1" d="M0 539h960M0 594h960m-900 46 220-164m71 164 85-164m158 164-37-164m201 164-165-164"/>
+    <ellipse cx="480" cy="534" rx="367" ry="77" fill="url(#led-light)"/>
+    <path fill="#0c1d16" d="M193 140h582v397h-55V239H248v298h-55z" filter="url(#shadow)"/>
+    <path fill="#293d30" d="M185 131h582v397h-55V230H240v298h-55z"/>
+    <path stroke="#c5e39e" stroke-width="3" d="M190 525V136h572v389" filter="url(#glow)"/>
+    <text x="475" y="188" fill="#eef2db" font-family="Arial, sans-serif" font-size="39" letter-spacing="9" font-weight="500" text-anchor="middle">YOUR BRAND</text>
+    <text x="475" y="215" fill="#b9ca9f" font-family="Arial, sans-serif" font-size="10" letter-spacing="5" text-anchor="middle">PRODUCT LAUNCH</text>
+    <path fill="#314635" d="M394 299h163v153H394z"/><path stroke="#a6b786" stroke-width="1" d="M404 309h143v133H404z"/>
+    <text x="476" y="369" fill="#e1e9cf" font-family="Georgia, serif" font-size="30" text-anchor="middle">A new</text>
+    <text x="476" y="407" fill="#e1e9cf" font-family="Georgia, serif" font-style="italic" font-size="34" text-anchor="middle">beginning.</text>
+    <path fill="#9ea98a" opacity=".1" d="m185 531-52 109h79l30-109zm527 0 35 109h83l-64-109z"/>
+    <use href="#plant" transform="translate(117 504) scale(.55)"/><use href="#plant" transform="translate(846 504) scale(.55)"/>
+  </g>
+
+  <g transform="translate(0 4480)">
+    <path fill="url(#stone)" d="M0 0h960v640H0z"/>
+    <path fill="url(#stone-grain)" d="M0 0h960v540H0z"/>
+    <path fill="url(#timber)" d="M817 0h143v540H817z"/>
+    <path stroke="#746e59" stroke-width="3" d="M160 0v119"/>
+    <path fill="#344734" d="M103 151q1-56 57-56t57 56z"/><ellipse cx="160" cy="151" rx="57" ry="6" fill="#ede8c5"/>
+    <path fill="url(#beam)" d="m130 155-87 248h234l-85-248z"/>
+    <path fill="url(#floor)" d="M0 540h960v100H0z"/>
+    <path fill="#aaa58b" d="M0 422h300v142H0z"/><path fill="url(#timber)" d="M0 432h300v132H0z"/>
+    <path fill="#344333" d="M0 411h318v17H0z"/>
+    <rect x="383" y="81" width="359" height="454" rx="4" fill="#e5e9cf" filter="url(#shadow)"/>
+    <rect x="376" y="74" width="359" height="454" rx="4" fill="#f3f8df" filter="url(#glow)"/>
+    <rect x="386" y="84" width="339" height="434" rx="1" fill="#e8e4c9"/>
+    <path fill="#294732" d="M386 84h339v151H386z"/>
+    <text x="555" y="126" fill="#d2dfb6" font-family="Arial, sans-serif" font-size="9" letter-spacing="4" text-anchor="middle">THE SEASONAL KITCHEN</text>
+    <text x="555" y="188" fill="#f5f0d9" font-family="Georgia, serif" font-size="54" text-anchor="middle">Menu.</text>
+    <path stroke="#a0ae7d" stroke-width="1" d="M427 211h256"/>
+    <g transform="translate(443 279)">
+      <circle r="24" fill="#a5ad7f"/><circle r="18" fill="#e2c6a0"/><path fill="#59744e" d="M-12-9q12-19 25 0L6 8z"/><circle cx="-7" cy="7" r="5" fill="#b5764c"/><circle cx="9" cy="3" r="4" fill="#9e5139"/>
+    </g>
+    <g transform="translate(443 357)">
+      <circle r="24" fill="#a5ad7f"/><circle r="18" fill="#dfc18d"/><path fill="#6e874a" d="m-12-8 9-5 13 12-10 10-13-4z"/><circle cx="9" cy="-7" r="5" fill="#a56643"/>
+    </g>
+    <g transform="translate(443 435)">
+      <circle r="24" fill="#a5ad7f"/><circle r="18" fill="#c0ac77"/><path stroke="#eee0ac" stroke-width="5" d="m-9-5 15 12m-12-1 13-12"/><circle cx="11" cy="7" r="4" fill="#75874d"/>
+    </g>
+    <g fill="#365038" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">
+      <text x="488" y="276">FRESH BOWLS</text><text x="488" y="354">SEASONAL GREENS</text><text x="488" y="432">KITCHEN CLASSICS</text>
+    </g>
+    <g stroke="#b1b292" stroke-width="3"><path d="M488 292h166m-166 15h106m-106 63h166m-166 15h125m-125 63h166m-166 15h111"/></g>
+    <text x="555" y="497" fill="#59704f" font-family="Arial, sans-serif" font-size="8" letter-spacing="2" text-anchor="middle">FRESH. SIMPLE. MADE FOR YOU.</text>
+    <path fill="#d4c4a1" d="M123 370h51l-9 40h-33z"/><path stroke="#5d794d" stroke-width="3" d="M149 372v-62m0 29-19-20m19 10 20-29"/>
+    <use href="#plant" transform="translate(851 563) scale(.64)"/>
+  </g>
+</svg>
